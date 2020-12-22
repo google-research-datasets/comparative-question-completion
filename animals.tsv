@@ -1,3 +1,4 @@
+Question  Masked text span  Wikidata id Conjectured property
 [CLS] proof why [MASK] are smarter than cats ? [SEP]	dogs	Q144	intelligence
 [CLS] what is cleaner ? [MASK] or ham ##ster ? [SEP]	Gerbil	Q244770	clean
 [CLS] does a [MASK] or dog cost more ? [SEP]	cat	Q146	price
