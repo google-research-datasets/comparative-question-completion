@@ -1,0 +1,1187 @@
+[CLS] true or false . , europe is more diverse than [MASK] [SEP]	America	Q30	more_culturaly_diverse
+[CLS] is brisbane boring ? and is [MASK] way more expensive than brisbane ? [SEP]	Sydney	Q3130	cheaper
+[CLS] is [MASK] hotter then the east coast ? [SEP]	the west coast	Q12606	hotter
+[CLS] who has a stronger military ? [MASK] or poland ? [SEP]	Turkey	Q43	more_powerful
+[CLS] is [MASK] safer than america ? [SEP]	Australia	Q408	safer
+[CLS] is [MASK] europe or the ben ##el ##ux region more densely populated ? [SEP]	Nordic	Q52062	more_populated
+[CLS] which country has more part time jobs new zealand or [MASK] ? [SEP]	australia	Q408	more_jobs
+[CLS] is texas warmer than [MASK] [SEP]	Los Angeles	Q65	hotter
+[CLS] which is richer : [MASK] or england ? [SEP]	Texas	Q1439	richer
+[CLS] which sports arena is more famous worldwide - ms ##g in nyc or staples center in [MASK] [SEP]	LA	Q65	more_popular
+[CLS] are people in northern england poorer than the [MASK] [SEP]	spanish	Q29	richer
+[CLS] why is ka ##ua ##i older than the [MASK] [SEP]	island of Hawaii	Q68740	older
+[CLS] who has more beautiful citizens [MASK] or europe . . ? [SEP]	USA	Q30	other
+[CLS] why is the usa older than every country in [MASK] [SEP]	South America	Q18	older
+[CLS] are the people in ottawa friendly with the immigrants ? where canadians are more friendly [MASK] or ottawa ? [SEP]	Vancouver	Q24639	more_friendly
+[CLS] what state is pre ##tti ##er colorado or [MASK] [SEP]	Maine	Q724	more_beautiful
+[CLS] is [MASK] actually much older than the usa ? [SEP]	Canada	Q16	older
+[CLS] which is older saudi arabia or [MASK] [SEP]	Persia	Q794	older
+[CLS] do you think [MASK] or europe is more ahead in fashion ? [SEP]	Asia	Q48	other
+[CLS] is washington . d . c . warmer or [MASK] now ? [SEP]	NYC	Q60	hotter
+[CLS] which city is more beautiful , cordoba or [MASK] [SEP]	Valencia	Q8818	more_beautiful
+[CLS] [MASK] or perth , which city is closer to the equator ? [SEP]	Melbourne	Q3141	closer_to_equator
+[CLS] who is more responsible for the cold war ? [MASK] or soviet union ? why ? [SEP]	United States	Q30	other
+[CLS] does it rain more in [MASK] or in london ? [SEP]	Hamburg	Q1055	rainier
+[CLS] are there more [MASK] world war one memorials in europe than american ones ? [SEP]	Canadian	Q16	other
+[CLS] is [MASK] more developed than the uk ? [SEP]	Spain	Q29	more_developed
+[CLS] does england or [MASK] have better food ? [SEP]	Ireland	Q27	better_food
+[CLS] why is pick ##po ##cke ##ting much more common in europe than in [MASK] [SEP]	the united states	Q30	other
+[CLS] which city is safer , [MASK] or philadelphia ? [SEP]	New York	Q60	safer
+[CLS] how come [MASK] is richer than the united states ? [SEP]	Yemen	Q805	richer
+[CLS] which is safer [MASK] or america ? [SEP]	Ireland	Q27	safer
+[CLS] which country is wealth ##ier ? mexico or [MASK] [SEP]	Bolivia	Q750	richer
+[CLS] which city is better ? [MASK] texas or garland , texas ? [SEP]	Irving	Q51690	better
+[CLS] how much stronger will [MASK] be if it reunite ##s with taiwan ? [SEP]	China	Q148	more_powerful
+[CLS] which country is more famous : [MASK] or france ? [SEP]	Japan	Q17	more_popular
+[CLS] [MASK] warmer than nyc in mid february ? [SEP]	London	Q84	hotter
+[CLS] is [MASK] any more free a country than france ? [SEP]	America	Q30	more_democratic
+[CLS] [MASK] vs israel ? which is more powerful ? [SEP]	Iran	Q794	more_powerful
+[CLS] is [MASK] ca a better place to live than moreno valley ? [SEP]	Palmdale	Q488940	better
+[CLS] which city is better [MASK] or manchester ? [SEP]	London	Q84	better
+[CLS] which city do you like better , calgary or [MASK] [SEP]	Edmonton	Q2096	other
+[CLS] what country has a higher overall elevation , [MASK] or nepal ? [SEP]	Kuwait	Q817	elevations
+[CLS] is the states or [MASK] more dangerous ? [SEP]	UK	Q145	safer
+[CLS] are laptop ##s in [MASK] cheaper than laptop in philippines ? [SEP]	Singapore	Q334	cheaper
+[CLS] which country is more developed , [MASK] or thailand ? [SEP]	India	Q668	more_developed
+[CLS] why does [MASK] have more mass killings than the continent of europe each year ? [SEP]	america	Q30	other
+[CLS] which city is warmer in the summer [MASK] or new york ? [SEP]	chicago	Q1297	hotter
+[CLS] is the acting business for movies more competitive in [MASK] or nyc ? [SEP]	LA	Q65	stronger_economically
+[CLS] what ##s a better place to backpack , [MASK] or europe ? [SEP]	Australia	Q408	other
+[CLS] general ##y , which state has a higher elevation : alaska or [MASK] [SEP]	Florda	Q812	elevations
+[CLS] is it liquor cheaper in the store in nevada or [MASK] [SEP]	California	Q99	cheaper
+[CLS] why is [MASK] colder than sydney ? [SEP]	London	Q84	hotter
+[CLS] which language is more beneficial in europe , german or [MASK] [SEP]	French	Q142	other
+[CLS] which is hotter - [MASK] or florida ? [SEP]	california	Q99	hotter
+[CLS] do you [MASK] will ever get bigger than phoenix ? [SEP]	San Antonio	Q975	other
+[CLS] why is the game in europe less physical than in [MASK] [SEP]	North America	Q49	other
+[CLS] is [MASK] more democratic than china ? [SEP]	Iran	Q794	more_democratic
+[CLS] is [MASK] stronger or europe stronger ? why ? [SEP]	North America	Q49	more_powerful
+[CLS] which has been inhabited longer , europe or [MASK] [SEP]	Australia	Q408	other
+[CLS] why is the uk more developed than [MASK] [SEP]	Ghana	Q117	more_developed
+[CLS] is it more expensive to live in melbourne or [MASK] [SEP]	Sydney	Q3130	cheaper
+[CLS] what country would be more dangerous ? australia or [MASK] [SEP]	USA	Q30	safer
+[CLS] which country is more multicultural / multi ##rac ##ial - [MASK] or hong kong ? [SEP]	Singapore	Q334	more_culturaly_diverse
+[CLS] is dallas a bigger city in size than [MASK] [SEP]	Houston	Q16555	larger
+[CLS] is san antonio bigger or smaller than [MASK] [SEP]	new york	Q60	larger
+[CLS] what state is more liberal , california or [MASK] [SEP]	Massachusetts	Q771	more_liberal
+[CLS] for people who have spent time in bot [MASK] and europe which is better ? [SEP]	the US	Q30	other
+[CLS] is [MASK] a more technological ##ly advanced country than united states ? [SEP]	Japan	Q17	better_technologically
+[CLS] which city is more dangerous , detroit or [MASK] [SEP]	Philadelphia	Q1345	safer
+[CLS] do you think racism is a bigger problem in europe or [MASK] [SEP]	America	Q30	other
+[CLS] more famous city - nyc or [MASK] [SEP]	Paris	Q90	more_popular
+[CLS] are apple products cheaper in dubai as compared to [MASK] [SEP]	india	Q668	cheaper
+[CLS] which is safer upper manhattan , [MASK] manhattan or lower manhattan ? [SEP]	midtown	Q11249	safer
+[CLS] which is hotter , texas or [MASK] [SEP]	Australia	Q408	hotter
+[CLS] who has cart ##ons of cigarettes cheaper ? [MASK] or delaware ? [SEP]	Virginia	Q1370	other
+[CLS] are there more people in new york city than in [MASK] [SEP]	Washington DC	Q61	more_populated
+[CLS] is new york city more famous than [MASK] city ? [SEP]	Las Vegas	Q23768	more_popular
+[CLS] which state is hotter , [MASK] or south dakota ? ( which has higher altitude and etc . ) ? [SEP]	Colorado	Q1261	hotter
+[CLS] which is a more beautiful city to visit london or [MASK] [SEP]	Berlin	Q64	more_beautiful
+[CLS] is [MASK] more dangerous than detroit ? [SEP]	chicago	Q1297	safer
+[CLS] is [MASK] more technological ##ly advanced than the u . s . ? [SEP]	Japan	Q17	better_technologically
+[CLS] is forever 21 in the philippines cheaper than the ones in [MASK] [SEP]	Singapore	Q334	cheaper
+[CLS] why is [MASK] ecological footprint bigger than india ' s ? [SEP]	Canada's	Q16	larger
+[CLS] from a general viewpoint , is the usa more homo ##phobic and conservative than [MASK] [SEP]	europe	Q46	more_liberal
+[CLS] new york city vs [MASK] which is colder during winter ? [SEP]	seoul	Q8684	hotter
+[CLS] which city is better ? manchester or [MASK] [SEP]	Birmingham	Q2256	better
+[CLS] what country is more gay friendly the u . s or [MASK] [SEP]	Brazil	Q155	more_liberal
+[CLS] is kazakhstan safer than [MASK] [SEP]	Russia	Q159	safer
+[CLS] is iceland closer to the north pole than [MASK] is to the south pole ? [SEP]	New Zealand	Q664	closer_to_pole
+[CLS] which country is more famous : brazil or [MASK] [SEP]	India	Q668	more_popular
+[CLS] which is more technological ##ly advanced ? us or [MASK] [SEP]	Japan	Q17	better_technologically
+[CLS] rama ##dan : isn ##t ma ##uri ##tania better than algerian and [MASK] [SEP]	Morocco	Q1028	better
+[CLS] is [MASK] more humid than north carolina ? [SEP]	New Jersey	Q1408	hotter
+[CLS] are there more similarities or differences between these foreign occupations : ussr / [MASK] & usa / iraq ? [SEP]	Afghanistan	Q889	other
+[CLS] why is cigarette smoking less socially acceptable in [MASK] than it is in europe ? [SEP]	North America	Q49	other
+[CLS] where is better to scuba dive ? grand cayman , cayman islands or co ##zu ##mel , mexico ? [SEP]	Cozumel, Mexico	Q929946	better
+[CLS] poll : more romantic city - paris or [MASK] [SEP]	Venice	Q641	more_beautiful
+[CLS] which is a better city to live manchester or [MASK] for a students ? [SEP]	London	Q84	better
+[CLS] which is the bigger city among [MASK] and bangalore ? [SEP]	Hyderabad	Q1361	larger
+[CLS] is it true that japan is cleaner than [MASK] [SEP]	China	Q148	cleaner
+[CLS] [MASK] is five times bigger than india . . . . . . but india has more than three times the population of america . why ? [SEP]	india	Q668	larger
+[CLS] is makeup more expensive in dubai than [MASK] [SEP]	usa	Q30	cheaper
+[CLS] which is better , , , manchester or [MASK] [SEP]	Birmingham	Q2256	better
+[CLS] why is [MASK] more advanced than malaysia and when will malaysia catch up ? [SEP]	Singapore	Q334	more_developed
+[CLS] if [MASK] is further north than boston , why does boston get more snow ? [SEP]	Seattle	Q5083	rainier
+[CLS] why do there seem to be more atheist ##s in europe than in [MASK] [SEP]	North America	Q49	other
+[CLS] why do people think that [MASK] has more crime that europe ? [SEP]	the USA	Q30	other
+[CLS] why is [MASK] a far richer country than america ? [SEP]	Australia	Q408	richer
+[CLS] which would be more fun for spring break 2011 . . . miami or [MASK] [SEP]	PANAMA CITY	Q852591	more_fun
+[CLS] which is better [MASK] metal or european metal ? [SEP]	American	Q30	other
+[CLS] why [MASK] is more developed than indonesia ? [SEP]	Malaysia	Q833	more_developed
+[CLS] living in [MASK] or philadelphia - - what ##s better ? [SEP]	NYC	Q60	more_livable
+[CLS] who gets more rain ? [MASK] or vancouver ? [SEP]	London	Q84	rainier
+[CLS] how much colder is it in [MASK] than chicago ? [SEP]	denver	Q16554	hotter
+[CLS] which country is more enjoyable : germany or [MASK] [SEP]	Austria	Q40	more_fun
+[CLS] what are the things are cheaper in south korea when compared to [MASK] [SEP]	india	Q668	cheaper
+[CLS] which place is better city to visit in january - lisbon or [MASK] ? [SEP]	BARCELONA	Q1492	better
+[CLS] most of europe is as far north as [MASK] but europe has a much mild ##er climate than canada . ? [SEP]	Europe	Q46	other
+[CLS] which is the more conservative [MASK] or oklahoma ? [SEP]	state: Georgia	Q1428	more_liberal
+[CLS] which is more powerful and richer - africa or [MASK] [SEP]	India	Q668	more_powerful
+[CLS] iranian ##s , is ##fahan or [MASK] which is more beautiful ? [SEP]	Isfahan	Q42053	more_beautiful
+[CLS] which cost is more beautiful , to ##scan ##a or [MASK] [SEP]	Lazio	Q1282	more_beautiful
+[CLS] why is australia a far richer and safer country than [MASK] [SEP]	America	Q30	richer
+[CLS] are laptop ##s cheaper than [MASK] in dubai during ds ##f ? [SEP]	India	Q668	cheaper
+[CLS] who has a stronger military , [MASK] or bangladesh ? [SEP]	France	Q142	more_powerful
+[CLS] how much colder is sydney than [MASK] during winter ? [SEP]	Brisbane	Q34932	hotter
+[CLS] which is more technological ##ly advanced ? [MASK] or china ? and why ? [SEP]	Africa	Q15	better_technologically
+[CLS] which city is richer in terms of $ $ $ and more developed [MASK] or shanghai ? [SEP]	Hong Kong	Q8646	richer
+[CLS] which neighborhood is more dangerous , flat ##bush or [MASK] [SEP]	Hollis	Q62212	safer
+[CLS] is living in [MASK] better than vietnam ? [SEP]	china	Q148	more_livable
+[CLS] paris more beautiful city than [MASK] [SEP]	london	Q84	more_beautiful
+[CLS] which country is more fun malaysia or [MASK] [SEP]	australia	Q408	more_fun
+[CLS] is [MASK] hotter than in the uk . better weather ? [SEP]	the usa	Q30	hotter
+[CLS] which is more fun , [MASK] or ireland ? [SEP]	England	Q21	more_fun
+[CLS] where is the quality of life better in [MASK] or manchester ? [SEP]	Liverpool	Q24826	better
+[CLS] which has the cheaper house prices near coast in new south wales or near the coast in [MASK] [SEP]	Melbourne	Q3141	other
+[CLS] is it cheaper to buy liquor in [MASK] or ohio ? [SEP]	Indiana	Q1415	cheaper
+[CLS] what city is better [MASK] ca or ontario , ca ? [SEP]	Fontana	Q491128	better
+[CLS] is [MASK] more gay friendly than the u . s . ? [SEP]	Canada	Q16	more_liberal
+[CLS] rio or [MASK] which is a better paradise ? [SEP]	Hawaii	Q782	other
+[CLS] why does kolkata receive more rainfall than [MASK] [SEP]	patna	Q80484	rainier
+[CLS] are thong bikini ##s more common in [MASK] or europe ? [SEP]	the US	Q30	other
+[CLS] where does it rain more , [MASK] or london ? [SEP]	Seattle	Q5083	rainier
+[CLS] what is the the stronger country , russia or [MASK] [SEP]	Mexico	Q96	more_powerful
+[CLS] which is more dangerous compton or [MASK] ? ! ! ? [SEP]	chicago	Q1297	safer
+[CLS] is spain more developed than [MASK] [SEP]	the UK	Q145	more_developed
+[CLS] why is liberalism stronger in north america than in [MASK] [SEP]	Europe	Q46	more_powerful
+[CLS] which country has a higher overall elevation , [MASK] or france ? [SEP]	Spain	Q29	elevations
+[CLS] is costa rica even more beautiful than [MASK] [SEP]	Hawaii	Q782	more_beautiful
+[CLS] which city is safer ? [MASK] or detroit ? [SEP]	Pontiac	Q847596	safer
+[CLS] is landscape more beautiful in europe or [MASK] [SEP]	the United States	Q30	more_beautiful
+[CLS] is [MASK] safer than the us ? [SEP]	the UK	Q145	safer
+[CLS] why is [MASK] more socially liberal than the united states ? [SEP]	Europe	Q46	more_liberal
+[CLS] why is europe generally more liberal than [MASK] [SEP]	the US	Q30	more_liberal
+[CLS] which place is bigger , california or [MASK] [SEP]	England	Q21	larger
+[CLS] why do liberals want [MASK] to be more like europe ? [SEP]	the US	Q30	other
+[CLS] why does [MASK] have cooler average monthly temperatures than rio de janeiro ? [SEP]	africa	Q15	other
+[CLS] witch is more beautiful . . . [MASK] or greece ? [SEP]	Brazil	Q155	more_beautiful
+[CLS] is living in california better than [MASK] [SEP]	hawaii	Q782	more_livable
+[CLS] w ##hic state is farther east , indiana or [MASK] [SEP]	tennessee	Q1509	farther_located
+[CLS] which country is older , [MASK] or israel ? [SEP]	Turkey	Q43	older
+[CLS] what has better food , america or [MASK] [SEP]	Holland	Q55	better_food
+[CLS] why is [MASK] so much richer than morocco ? [SEP]	spain	Q29	richer
+[CLS] is russia stronger than [MASK] [SEP]	the USA	Q30	more_powerful
+[CLS] [MASK] or brazil ? which is more developed ? [SEP]	India	Q668	more_developed
+[CLS] electronics cheaper in dubai or [MASK] ? [SEP]	singapore	Q334	cheaper
+[CLS] is [MASK] texas hotter than miami florida ? [SEP]	houston	Q16555	hotter
+[CLS] [MASK] is farther from the equator than iran . ? [SEP]	Venezuela	Q717	farther_located
+[CLS] which is more successful , roman republic or [MASK] why ? [SEP]	Roman Empire	Q2277	more_successful
+[CLS] real madrid , [MASK] or bayern ? ? which is better ? [SEP]	milan	Q490	better
+[CLS] why does gas cost $ 7 / gallon in europe and so much less in [MASK] [SEP]	the USA	Q30	other
+[CLS] who are more friendly ? canadians , british or [MASK] [SEP]	Australians	Q408	more_friendly
+[CLS] which city is more developed , dubai vs [MASK] [SEP]	Abu Dhabi	Q1519	more_developed
+[CLS] is the manchester or [MASK] prima ##rk better ? [SEP]	Liverpool	Q24826	better
+[CLS] which one is cheaper mali ##a , za ##nte or [MASK] [SEP]	Magaluf	Q239017	cheaper
+[CLS] which is more expensive to live in , [MASK] or qatar ? [SEP]	UAE	Q878	cheaper
+[CLS] in general why is [MASK] al ##ot more conservative than north carolina ? [SEP]	South Carolina	Q1456	more_liberal
+[CLS] is [MASK] far more advanced , tech - sa ##v ##vy , sophisticated and beautiful city than melbourne ? [SEP]	Sydney	Q3130	more_developed
+[CLS] what country is more religious , australia or [MASK] [SEP]	Canada	Q16	more_religious
+[CLS] why is [MASK] so much more successful that its bigger and resource rich neighbours like malaysia and indo ##n ? [SEP]	singapore	Q334	more_successful
+[CLS] which is richer japan or [MASK] [SEP]	China	Q148	richer
+[CLS] how come countries in europe are more in fashion than [MASK] [SEP]	america	Q30	other
+[CLS] which state has higher elevations , [MASK] or louisiana ? [SEP]	Arizona	Q816	elevations
+[CLS] is [MASK] more expensive than san francisco ? [SEP]	los angeles	Q65	cheaper
+[CLS] yes or no . . . . . . ? ? is [MASK] less safe for jews than the us . . . . ? [SEP]	Russia	Q159	safer
+[CLS] is canada an older country than [MASK] [SEP]	the U.S	Q30	older
+[CLS] what country is richer , [MASK] or ukraine ? [SEP]	Mexico	Q96	richer
+[CLS] is the tab ##ern ##acle in [MASK] georgia 18 and older ? [SEP]	Atlanta	Q23556	older
+[CLS] is it cheaper to buy cameras in korea or [MASK] like canon or nik ##on brand ? [SEP]	Hong Kong	Q8646	cheaper
+[CLS] what are the climates in north carolina and [MASK] which ones hotter ? [SEP]	South Carolina	Q1456	hotter
+[CLS] is iraq ' s economy more or less diverse than then [MASK] [SEP]	United States	Q30	more_culturaly_diverse
+[CLS] which city is more dangerous : [MASK] or detroit ? [SEP]	Chicago	Q1297	safer
+[CLS] why is [MASK] more pro - woman than the usa ? [SEP]	the UK	Q145	more_liberal
+[CLS] is new york hotter than [MASK] [SEP]	London	Q84	hotter
+[CLS] which is more liberal , wisconsin or [MASK] [SEP]	Illinois	Q1204	more_liberal
+[CLS] what state has higher elevations , [MASK] or louisiana ? [SEP]	Arizona	Q816	elevations
+[CLS] anyone been to both [MASK] and new zealand ? which is more beautiful ? [SEP]	Australia	Q408	more_beautiful
+[CLS] is canada or [MASK] more powerful and technological ##ly advanced ? [SEP]	Germany	Q183	more_powerful
+[CLS] are european blue jeans and demi ##n more st ##yl ##ish , quality , and fashionable than [MASK] [SEP]	AMERICAN	Q30	other
+[CLS] is wildlife biology a realistic career ( & are there more conservation job opportunities in [MASK] than us ) ? [SEP]	Canada	Q16	more_jobs
+[CLS] who has more people , india or [MASK] [SEP]	China	Q148	more_populated
+[CLS] which country has better economy [MASK] or england ? [SEP]	Mexico	Q96	stronger_economically
+[CLS] is mexico more religious than [MASK] [SEP]	the USA	Q30	more_religious
+[CLS] what place is more dangerous at night , [MASK] or united states ? [SEP]	Canada	Q16	safer
+[CLS] how is a country like [MASK] with absolutely no natural res ##ours ##es , richer than the entire continent of africa ? [SEP]	Japan	Q17	richer
+[CLS] which country is richer [MASK] or mexico ? [SEP]	India	Q668	richer
+[CLS] which nation is more powerful : russia or [MASK] [SEP]	China	Q148	more_powerful
+[CLS] which state is hotter [MASK] or florida ? [SEP]	Hawaii	Q782	hotter
+[CLS] which country is more democratic ? australia or [MASK] and why ? [SEP]	America	Q30	more_democratic
+[CLS] is [MASK] bigger than india ? [SEP]	saudi Arabia	Q851	larger
+[CLS] why does it rain less in pune than [MASK] [SEP]	Mumbai	Q1156	rainier
+[CLS] does [MASK] have violent gangs like here in the usa ? are they less violent ? [SEP]	Japan	Q17	safer
+[CLS] why is mumbai warmer than [MASK] [SEP]	nagpur	Q1513	hotter
+[CLS] in general which has higher elevations , alaska or [MASK] [SEP]	Florida	Q812	elevations
+[CLS] is [MASK] a safer place for immigrants relative to other places in the us ? [SEP]	California	Q99	safer
+[CLS] is canada an older country than [MASK] [SEP]	the U.S.A.	Q30	older
+[CLS] financially who is in worse shape , europe or [MASK] [SEP]	the United States	Q30	other
+[CLS] better to stay in manchester or [MASK] [SEP]	Cheshire	Q23064	better
+[CLS] why is [MASK] poorer than mexico ? [SEP]	the Philippines	Q928	richer
+[CLS] what state is bigger [MASK] or california ? [SEP]	TEXAS	Q1439	larger
+[CLS] which is more fun : driving in [MASK] or new york city ? [SEP]	London	Q84	more_fun
+[CLS] what city is bigger [MASK] ky or nashville tn ? [SEP]	Louisville	Q43668	larger
+[CLS] is [MASK] more dangerous than detroit ? [SEP]	johannesburg	Q34647	safer
+[CLS] are things including house rent , school fees and foods are cheaper in [MASK] then dubai ! ! ! ? [SEP]	Al Ain	Q234600	cheaper
+[CLS] why germany is richer than [MASK] ? [SEP]	Russia	Q159	richer
+[CLS] what country has a higher overall elevation , kuwait or [MASK] [SEP]	Nepal	Q837	elevations
+[CLS] which is hotter florida or south [MASK] [SEP]	Spain	Q29	hotter
+[CLS] is jewelry less expensive in korea or [MASK] [SEP]	USA	Q30	cheaper
+[CLS] why do houses in [MASK] tend to be bigger than houses in europe ? [SEP]	the US	Q30	other
+[CLS] russia or [MASK] who is more powerful ? [SEP]	china	Q148	more_powerful
+[CLS] which is a more friendly city , edinburgh or [MASK] [SEP]	Glasgow	Q4093	more_friendly
+[CLS] which is richer iraq or [MASK] [SEP]	Afghanistan	Q889	richer
+[CLS] which city sucks more [MASK] or phoenix ? [SEP]	Chicago	Q1297	other
+[CLS] [MASK] safer that d . c . ? [SEP]	Baghdad	Q1530	safer
+[CLS] are people in europe friend ##lier then people in [MASK] [SEP]	America	Q30	other
+[CLS] do you like [MASK] or the soviet union more ? [SEP]	Russia	Q159	other
+[CLS] is the new forest in [MASK] bigger in size than the isle of white . ? [SEP]	England	Q21	larger
+[CLS] which country is richer . . [MASK] or us ? [SEP]	UK	Q145	richer
+[CLS] [MASK] or paris ? which is more romantic for a proposal ? [SEP]	Bora Bora	Q183113	more_beautiful
+[CLS] in what ways is the uk more free than [MASK] [SEP]	the USA	Q30	more_democratic
+[CLS] is moreno valley a safer place to live than [MASK] [SEP]	Corona	Q494707	safer
+[CLS] why is [MASK] so much more liberal than america ? [SEP]	Canada	Q16	more_liberal
+[CLS] is it cheaper to buy a mobile phone from dubai or [MASK] [SEP]	australia	Q408	cheaper
+[CLS] is [MASK] a better travel destination than thailand ? [SEP]	Laos	Q819	more_popular
+[CLS] between beijing and [MASK] which city is colder ? [SEP]	New York	Q60	hotter
+[CLS] is spain a developed country or developing or under ##dev ##elo ##ped ? is it more developed and richer than [MASK] [SEP]	India	Q668	more_developed
+[CLS] do teens go more to huntington beach or [MASK] ? [SEP]	Newport Beach	Q268873	other
+[CLS] which state is closer to the north pole wyoming or [MASK] [SEP]	Ohio	Q1397	closer_to_pole
+[CLS] is ottawa cheaper than [MASK] [SEP]	Toronto	Q172	cheaper
+[CLS] which is a nice ##r city ? [MASK] or calgary ? [SEP]	Edmonton	Q2096	other
+[CLS] between [MASK] and new york , which city is colder ? [SEP]	Beijing	Q956	hotter
+[CLS] is it safer to live in [MASK] than the usa ? [SEP]	Australia	Q408	safer
+[CLS] which is more expensive ? studying in [MASK] or studying in south korea ? [SEP]	America	Q30	cheaper
+[CLS] is [MASK] or fiji closer to the equator ? [SEP]	Hawaii	Q782	closer_to_equator
+[CLS] why are the japanese versions of cd ' s more expensive than taiwan or [MASK] [SEP]	Korea	Q884	cheaper
+[CLS] which food is hotter ( chili - content - wise ) , [MASK] or sri lanka ? [SEP]	India	Q668	hotter
+[CLS] are things including house rent , school fees and foods are cheaper in al ain then [MASK] ! ! ? [SEP]	Dubai	Q612	cheaper
+[CLS] which is the more liberal / democratic city : [MASK] or seattle ? [SEP]	Philadelphia	Q1345	more_liberal
+[CLS] which country has better military technology , the us or [MASK] [SEP]	Russia	Q159	better_technologically
+[CLS] why does calgary have a larger annual temperature range then [MASK] [SEP]	Vancouver	Q24639	other
+[CLS] electronics cheaper in dubai or [MASK] [SEP]	Kuala Lumpur	Q1865	cheaper
+[CLS] are people in [MASK] getting married younger than in europe ? [SEP]	the US	Q30	other
+[CLS] which country is more famous : norway or [MASK] [SEP]	Brazil	Q155	more_popular
+[CLS] poland and [MASK] which is richer ? [SEP]	NIGERIA	Q1033	richer
+[CLS] what is a better vacation destination [MASK] or angeles city philippines ? [SEP]	Makati	Q1508	more_popular
+[CLS] why is can ##cu ##n warmer than [MASK] i ? [SEP]	London	Q84	hotter
+[CLS] who ##s stronger at world war 2 russia or [MASK] [SEP]	america	Q30	more_powerful
+[CLS] which is a pre ##tti ##er more liv ##able beach town : santa cruz , california or [MASK] california ? [SEP]	Santa Barbara	Q159288	more_beautiful
+[CLS] what country would be more dangerous ? [MASK] or usa ? [SEP]	Australia	Q408	safer
+[CLS] is living in south korea ( food , gifts , etc . ) cheaper than in [MASK] [SEP]	the u.s.	Q30	cheaper
+[CLS] are laptop ##s cheaper in russia than in [MASK] [SEP]	India	Q668	cheaper
+[CLS] which country is more beautiful ? [MASK] or new zealand ? [SEP]	Norway	Q20	more_beautiful
+[CLS] which city is more dangerous , [MASK] or philadelphia ? [SEP]	Detroit	Q12439	safer
+[CLS] is [MASK] an older country than the u . s . a . ? [SEP]	Canada	Q16	older
+[CLS] [MASK] or edmonton ? which is older ? [SEP]	Calgary	Q36312	older
+[CLS] what ' s a better place to live anaheim , ca or [MASK] n ##v ? [SEP]	North Las Vegas	Q143782	better
+[CLS] which evidence is stronger : europeans are from africa or native americans are from [MASK] [SEP]	Asia	Q48	more_powerful
+[CLS] which city is more dangerous ; [MASK] or detroit ? [SEP]	Chicago	Q1297	safer
+[CLS] which is at a higher elevation , [MASK] or denver , colorado ? [SEP]	Colorado Springs	Q49258	elevations
+[CLS] is [MASK] more powerful than brazil ? [SEP]	Mexico	Q96	more_powerful
+[CLS] [MASK] give me one reason why america is better then europe ? [SEP]	Americans	Q30	other
+[CLS] among australia and [MASK] which country has better job opportunities for it professional ? [SEP]	Canada	Q16	more_jobs
+[CLS] is europe more aware and pro ##active about the environment and saving it than [MASK] [SEP]	the US	Q30	other
+[CLS] which one is more serious ? the islam ##ini ##zation of europe or the islam ##ini ##zation of [MASK] [SEP]	America	Q30	other
+[CLS] a week in paris vs . a week in [MASK] which one is cheaper ? [SEP]	New York	Q60	cheaper
+[CLS] why is it cheaper to travel to [MASK] than to vietnam ? [SEP]	Thailand	Q869	cheaper
+[CLS] what country is more fun [MASK] or the u . s ? [SEP]	Mexico	Q96	more_fun
+[CLS] which has the bigger population : [MASK] or europe ? [SEP]	america	Q30	more_populated
+[CLS] today [MASK] is stronger than canada ? mil ##ita ##rily and economically ? [SEP]	Brazil	Q155	more_powerful
+[CLS] which place is better to live in , manchester or [MASK] [SEP]	Kent	Q23298	better
+[CLS] why is the summer hotter in florida than [MASK] [SEP]	New York	Q60	hotter
+[CLS] why is ny colder than [MASK] in winters ? [SEP]	california	Q99	hotter
+[CLS] which state is more conservative ? texas or [MASK] [SEP]	Louisiana	Q1588	more_liberal
+[CLS] does the country of mexico have more freedom than [MASK] [SEP]	United States	Q30	more_democratic
+[CLS] diamond engagement rings . . cheaper in cape town than [MASK] [SEP]	London	Q84	cheaper
+[CLS] is north america stronger or [MASK] stronger ? why ? [SEP]	Europe	Q46	more_powerful
+[CLS] which city would be more fun for a college aged kid ? nyc or [MASK] [SEP]	San Francisco	Q62	more_fun
+[CLS] which is colder : [MASK] or new york ? [SEP]	Massachusetts	Q771	hotter
+[CLS] is [MASK] or north america more modern ? [SEP]	Western Europe	Q27496	more_modern
+[CLS] is alcohol cheaper in mother russia than in [MASK] [SEP]	the USA	Q30	cheaper
+[CLS] pl ##z tell which place is more cool . . . mana ##li or [MASK] tour . . . . and which one is more cheaper and enjoyable wit ? [SEP]	srinagar	Q170115	more_fun
+[CLS] between [MASK] and u . k . , which country is more powerful mil ##ita ##rily ? [SEP]	Germany	Q183	more_powerful
+[CLS] are the [MASK] more open - minded towards unconventional behavior r ##han americans ? [SEP]	british	Q145	more_liberal
+[CLS] which country is more poor . [MASK] or mexico ? [SEP]	El salvador	Q792	richer
+[CLS] is the immigration situation in europe compared to [MASK] better , worse , or about the same ? [SEP]	the USA	Q30	other
+[CLS] euro 2012 : what about [MASK] england ? who is stronger ? in your opinion who will win and why ? [SEP]	Italy	Q38	more_powerful
+[CLS] which country is more famous : [MASK] or germany ? [SEP]	England	Q21	more_popular
+[CLS] sydney weather in january ? is it hotter then [MASK] weather ? [SEP]	Brisbane	Q34932	hotter
+[CLS] why is the [MASK] warmer in winter than the east coast ? [SEP]	West Coast of the United States	Q12606	hotter
+[CLS] what is more free , [MASK] or europe ? [SEP]	USA	Q30	more_democratic
+[CLS] why does [MASK] have a higher birth rate than most european countries ? [SEP]	the United States	Q30	other
+[CLS] is sydney more fun than [MASK] [SEP]	Melbourne	Q3141	more_fun
+[CLS] which place is cooler ? chicago or [MASK] [SEP]	cleavland	Q37320	hotter
+[CLS] which city is more fun ? [MASK] or miami ? [SEP]	Panama City Beach	Q1075852	more_fun
+[CLS] is soccer more popular in [MASK] or in europe ? [SEP]	South America	Q18	more_popular
+[CLS] is [MASK] or new york city more popular for vacation ? [SEP]	florida	Q812	more_popular
+[CLS] which is more expensive ? paris or [MASK] [SEP]	Central Europe	Q27509	cheaper
+[CLS] who has a better economy : [MASK] or australia ? [SEP]	USA	Q30	stronger_economically
+[CLS] who has better advanced technology , usa or [MASK] [SEP]	Israel	Q801	better_technologically
+[CLS] is [MASK] more dangerous than northern california ? [SEP]	southern California	Q844837	safer
+[CLS] why is { male } ci ##rc ##um ##cision , generally , more socially accepted , in [MASK] then europe compared ? [SEP]	the USA	Q30	other
+[CLS] miami or [MASK] which city is more fun [SEP]	Las Vegas	Q23768	more_fun
+[CLS] what are some things that [MASK] does better than europe ? [SEP]	the US	Q30	other
+[CLS] taiwan or [MASK] more fun ? [SEP]	Korea	Q884	more_fun
+[CLS] why is it more dangerous for [MASK] to have nuclear weapons than israel ? [SEP]	Iran	Q794	safer
+[CLS] which is hotter [MASK] or the state of louisiana ? [SEP]	Brazil	Q155	hotter
+[CLS] [MASK] or calgary . . . which one feels more like a big city ? [SEP]	Edmonton	Q2096	other
+[CLS] which city is safer ? [MASK] or ok ##c ? [SEP]	OKC	Q34863	safer
+[CLS] which country is more multicultural / multi ##rac ##ial - singapore or [MASK] [SEP]	Hong Kong	Q8646	more_culturaly_diverse
+[CLS] which city is safer ? tulsa or [MASK] [SEP]	OKC	Q34863	safer
+[CLS] what is a better place to live , [MASK] or manchester ? [SEP]	Birmingham	Q2256	better
+[CLS] why does [MASK] have more people than new york but has a lower unemployment ? [SEP]	Texas	Q1439	more_populated
+[CLS] is it probable that [MASK] will lose its pu ##ritan culture and become more like europe ( e ##g . beach top ##lessness ) ? [SEP]	America	Q30	other
+[CLS] [MASK] or canada , what nation is more powerful worldwide ? [SEP]	India	Q668	more_powerful
+[CLS] which country is more famous : [MASK] or brazil ? [SEP]	Mexico	Q96	more_popular
+[CLS] manchester or [MASK] which is the better city to move to ? [SEP]	Newcastle upon Tyne	Q1425428	better
+[CLS] is russian and chin ##es military stronger than [MASK] and nato ? [SEP]	the US	Q30	more_powerful
+[CLS] traveling from phoenix area to [MASK] which route is more scenic ? [SEP]	Tucson	Q18575	other
+[CLS] why is inter ##rac ##ial dating in canada so much more diverse than that in [MASK] [SEP]	the US	Q30	more_culturaly_diverse
+[CLS] what country is older ? ireland or [MASK] [SEP]	England	Q21	older
+[CLS] is winnipeg colder than [MASK] [SEP]	Fort McMurray	Q126624	hotter
+[CLS] which city has better food , los angeles or [MASK] [SEP]	San Francisco	Q62	better_food
+[CLS] [MASK] students : is glasgow a more dangerous city than edinburgh ? [SEP]	Edinburgh	Q23436	safer
+[CLS] is belgium bigger than [MASK] [SEP]	new york	Q60	larger
+[CLS] which metro area has a larger asian population , [MASK] or new york city ? [SEP]	Los Angeles	Q65	more_populated
+[CLS] why is [MASK] generally more liberal than the us ? [SEP]	Europe	Q46	more_liberal
+[CLS] which city is more beautiful [MASK] or vancouver and why ? [SEP]	San Francisco	Q62	more_beautiful
+[CLS] do you [MASK] is colder than the uk ? [SEP]	New Zealand	Q664	hotter
+[CLS] wi ##ch is a better vacation spot ? [MASK] or europe ? [SEP]	Bahammas	Q778	other
+[CLS] what country is more famous worldwide and why - germany or [MASK] [SEP]	Japan	Q17	more_popular
+[CLS] is russia military stronger than [MASK] [SEP]	china	Q148	more_powerful
+[CLS] is it hotter in new york or [MASK] during th ##s summer ? [SEP]	new jersey	Q1408	hotter
+[CLS] there are two people . one from usa , one from [MASK] who is richer ? who is poor ? who is good at english ? who is ? [SEP]	North Korea	Q423	richer
+[CLS] why milk is cheaper in ottawa ( 3 . 95 $ ) compare to [MASK] ( 5 . 65 $ ) ? [SEP]	Montreal	Q340	cheaper
+[CLS] which is much hotter delhi or [MASK] ? [SEP]	Chennai	Q1352	hotter
+[CLS] what qu ##ali ##fin ##g continent is harder europe or [MASK] [SEP]	South America	Q18	other
+[CLS] which is a more beautiful town to visit - helsinki or [MASK] [SEP]	Stockholm	Q1754	more_beautiful
+[CLS] which is more expensive : [MASK] or ib ##iza ? [SEP]	Ayia Napa	Q393593	cheaper
+[CLS] which city is more fun , [MASK] or miami ? [SEP]	Los Angeles	Q65	more_fun
+[CLS] is [MASK] cheaper than munich to rent ? [SEP]	Regensburg	Q2978	cheaper
+[CLS] is [MASK] or the uk more powerful ? [SEP]	Japan	Q17	more_powerful
+[CLS] where do you think steve nash is more popular in [MASK] or phoenix ? [SEP]	Canada	Q16	other
+[CLS] which city is more fun and happening - [MASK] or new york ? [SEP]	Sydney	Q3130	more_fun
+[CLS] who gets more rain ? london or [MASK] [SEP]	Vancouver	Q24639	rainier
+[CLS] which state is more liberal : [MASK] or california ? [SEP]	New York	Q60	more_liberal
+[CLS] is atlantis in dubai cheaper than [MASK] [SEP]	Bahamas	Q778	cheaper
+[CLS] which city is farther [MASK] or san diego ? [SEP]	west - Reno	Q49225	farther_located
+[CLS] which is a more beautiful town to visit - [MASK] or stockholm ? [SEP]	Helsinki	Q1757	more_beautiful
+[CLS] is it just me or is [MASK] way ##y ##y more liberal than the usa ? [SEP]	Europe	Q46	more_liberal
+[CLS] does [MASK] talk about race more than europe ? [SEP]	America	Q30	other
+[CLS] how come bangalore is more developed than [MASK] [SEP]	Chennai	Q1352	more_developed
+[CLS] pan ##vel to math ##eran roadway is nearer or [MASK] to math ##eran railway is nearer . which is best way ? [SEP]	thane	Q943099	other
+[CLS] is california bigger than [MASK] [SEP]	Texas	Q1439	larger
+[CLS] is it colder in new york than is in [MASK] in winter ? [SEP]	london	Q84	hotter
+[CLS] what economy is doing worse - europe or [MASK] [SEP]	the United States	Q30	other
+[CLS] which country is more famous : [MASK] or germany ? [SEP]	Spain	Q29	more_popular
+[CLS] which country is more developed , [MASK] or france ? [SEP]	Israel	Q801	more_developed
+[CLS] which is better to visit vietnam or [MASK] [SEP]	the Philippines	Q928	better
+[CLS] are electronic goods cheaper in [MASK] or new zealand ? [SEP]	the UK	Q145	cheaper
+[CLS] why is europe so much trend ##ier than [MASK] [SEP]	the US	Q30	other
+[CLS] is australia safer than [MASK] [SEP]	America	Q30	safer
+[CLS] would living in [MASK] be a lot cheaper than living in san francisco ? [SEP]	daly city	Q370925	cheaper
+[CLS] which is worth more in the dublin monopoly ? kim ##mage or [MASK] or both the same ? [SEP]	crumlin	Q4237564	other
+[CLS] ke ##low ##na vs [MASK] which is better to live ? [SEP]	Nanaimo	Q16461	better
+[CLS] why does europe have better public transport than [MASK] [SEP]	North America	Q49	other
+[CLS] which country is stronger , [MASK] or south korea ? [SEP]	Japan	Q17	more_powerful
+[CLS] which state is farther north , washington [MASK] [SEP]	or Oregon	Q824	farther_located
+[CLS] why is [MASK] a far richer and safer country than america ? [SEP]	Australia	Q408	richer
+[CLS] summer in nyc are more hot than [MASK] summer ? [SEP]	LA	Q65	hotter
+[CLS] punjab vs [MASK] - which state is more prosperous . . ? [SEP]	Bihar	Q1165	richer
+[CLS] which is farther east : ( [MASK] or puerto rico ) ? [SEP]	newfoundland	Q2003	farther_located
+[CLS] is russia 10 ##x more powerful than [MASK] [SEP]	the U.S.	Q30	more_powerful
+[CLS] which city is more fun and happening - sydney or [MASK] [SEP]	New York	Q60	more_fun
+[CLS] why [MASK] is hotter than hyderabad ? is there any link with the altitude from sea level ? [SEP]	chennai	Q1352	hotter
+[CLS] [MASK] have a better international league than europe do you agree ? [SEP]	Brazil	Q155	other
+[CLS] which country is richer of the two - [MASK] or russia ? [SEP]	India	Q668	richer
+[CLS] why are there more job opportunities in the usa than in [MASK] [SEP]	Mexico	Q96	more_jobs
+[CLS] why does sweden have a higher per capita gdp than [MASK] [SEP]	the US	Q30	stronger_economically
+[CLS] which area has better food ? [MASK] or tuscany ? [SEP]	Rome	Q220	better_food
+[CLS] why is football ( or soccer ) less popular in [MASK] than europe ? [SEP]	the USA	Q30	more_popular
+[CLS] which country is older , [MASK] or usa ? [SEP]	Canada	Q16	older
+[CLS] is vietnam bigger than [MASK] [SEP]	california	Q99	larger
+[CLS] is life really better living in europe then [MASK] [SEP]	USA	Q30	other
+[CLS] is czech republic more or less capitalist than [MASK] and why ? [SEP]	the United States	Q30	political
+[CLS] is the economy stronger in [MASK] or cleveland ? [SEP]	Pittsburgh	Q1342	more_powerful
+[CLS] what state does it rain more in washington [MASK] [SEP]	or oregon	Q824	rainier
+[CLS] why do you think an average [MASK] spends more than an average european ? [SEP]	American	Q30	other
+[CLS] which country is more developed : brazil or [MASK] [SEP]	Colombia	Q739	more_developed
+[CLS] why is [MASK] cheaper than san francisco ? is it better than san francisco ? [SEP]	Los Angeles	Q65	cheaper
+[CLS] why is [MASK] politically more conservative than the rest of new england ? [SEP]	New Hampshire	Q759	more_liberal
+[CLS] is [MASK] more dangerous than australia ? [SEP]	the UK	Q145	safer
+[CLS] is it true that honduras has more soccer players in europe that [MASK] [SEP]	mexico	Q96	other
+[CLS] there is more fun in [MASK] or new york ? [SEP]	los angeles	Q65	more_fun
+[CLS] which country is older , india or [MASK] [SEP]	China	Q148	older
+[CLS] which is a better senior trip ? road trip across [MASK] or europe ? [SEP]	US	Q30	other
+[CLS] is baseball more popular in [MASK] or puerto rico ? [SEP]	the United States	Q30	more_popular
+[CLS] why is south korea more developed than [MASK] and part of the o ##ec ##d but china isn ' t ? [SEP]	south Korea	Q884	more_developed
+[CLS] doing msc in management in [MASK] or mba in uk among both has better job opportunities in india . . ? [SEP]	india	Q668	more_jobs
+[CLS] which is bigger dallas or [MASK] [SEP]	London	Q84	larger
+[CLS] why is the summer hotter in [MASK] than new york ? [SEP]	FLorida	Q812	hotter
+[CLS] which city is larger in size ? [MASK] or bangalore ? [SEP]	chennai	Q1352	larger
+[CLS] is there a state more conservative than [MASK] or alaska ? [SEP]	Texas	Q1439	more_liberal
+[CLS] is [MASK] bigger than california ? [SEP]	the philippines	Q928	larger
+[CLS] [MASK] or nevada better state ? [SEP]	Arizona	Q816	better
+[CLS] is western europe or [MASK] more modern ? [SEP]	North America	Q49	more_modern
+[CLS] korea [MASK] military : which navy is stronger , korea or japan ? [SEP]	Korea	Q884	more_powerful
+[CLS] is the uk more democratic than [MASK] [SEP]	the USA	Q30	more_democratic
+[CLS] for filipino ##s ( your opinion ) : is it better to live in [MASK] than europe ? [SEP]	America	Q30	other
+[CLS] why do the developed left - leaning countries ( europe ) usually have a much lower income than [MASK] [SEP]	Americans	Q30	other
+[CLS] which is more fun and exciting . . . southern california or [MASK] [SEP]	South Florida	Q7567226	more_fun
+[CLS] which country is more fun [MASK] or australia ? [SEP]	malaysia	Q833	more_fun
+[CLS] why does delhi receive more rainfall than [MASK] [SEP]	jodhpur	Q200019	rainier
+[CLS] why are [MASK] more friendly than california ##ns ? [SEP]	Californians	Q99	more_friendly
+[CLS] why are the japanese versions of cd ' s more expensive than [MASK] or korea ? [SEP]	Taiwan	Q865	cheaper
+[CLS] which is a bigger city ? bangalore or [MASK] [SEP]	chennai	Q1352	larger
+[CLS] jewelry more expensive in korea or [MASK] [SEP]	US	Q30	cheaper
+[CLS] is uk colder than [MASK] ? [SEP]	USA	Q30	hotter
+[CLS] is hawaii or [MASK] closer to the equator ? [SEP]	Fiji	Q712	closer_to_equator
+[CLS] [MASK] or europe , which does more to destroy the environment ? [SEP]	America	Q30	other
+[CLS] [MASK] or tulsa ? which one is a better place to live , work and purchase a new home ? [SEP]	OKLAHOMA CITY	Q34863	better
+[CLS] [MASK] or the usa ? which is richer ! ! ? [SEP]	Dubai	Q612	richer
+[CLS] which country in world ( at present ) is more powerful , russia or [MASK] [SEP]	U.S	Q30	more_powerful
+[CLS] why bangladesh has a bigger population than [MASK] [SEP]	Russia	Q159	more_populated
+[CLS] is china generally more beautiful to visit than [MASK] are they just different ? or is one pre ##tti ##er ? [SEP]	Japan	Q17	more_beautiful
+[CLS] wi ##ch country is stronger by navy israel or [MASK] [SEP]	saudi arabia	Q851	more_powerful
+[CLS] which country is older ? australia or [MASK] [SEP]	New Zealand	Q664	older
+[CLS] is [MASK] an older country than the usa ? [SEP]	Canada	Q16	older
+[CLS] which is a richer [MASK] or mexico ? [SEP]	country, India	Q668	richer
+[CLS] better water quality in europe vs [MASK] . . ? [SEP]	US	Q30	other
+[CLS] which place is more fun . . . lang ##ka ##wi or [MASK] [SEP]	Goa	Q1171	more_fun
+[CLS] what ' s bigger , [MASK] or brooklyn ? [SEP]	the Bronx	Q18426	larger
+[CLS] which city is more fun to live in ? nyc or [MASK] [SEP]	LA	Q65	more_fun
+[CLS] is living in [MASK] better then living in the united states ? [SEP]	Canada	Q16	more_livable
+[CLS] is denver or [MASK] at a higher elevation ? [SEP]	Philadelphia	Q1345	elevations
+[CLS] is it just me or is europe way ##y ##y more liberal than [MASK] [SEP]	the USA	Q30	more_liberal
+[CLS] which city is closer to the equator [MASK] or cape town ? [SEP]	london	Q84	closer_to_equator
+[CLS] safer to live in [MASK] or alaska and why ? [SEP]	California	Q99	safer
+[CLS] which is a pre ##tti ##er country to visit - costa rica or [MASK] ? [SEP]	Guatemala	Q774	more_beautiful
+[CLS] what state is stronger [MASK] vs texas ? [SEP]	Louisiana	Q1588	more_powerful
+[CLS] which country is poorer : [MASK] or mexico ? [SEP]	India	Q668	richer
+[CLS] which country is more powerful [MASK] or the whole europe . ? [SEP]	america	Q30	other
+[CLS] which has better shopping , huntington beach or [MASK] [SEP]	Long Beach	Q16739	other
+[CLS] should [MASK] be more like europe ? [SEP]	the US	Q30	other
+[CLS] which region is more liberal on marijuana : [MASK] or europe ? [SEP]	US	Q30	more_liberal
+[CLS] where is the iphone ##4 cheaper - dubai or [MASK] [SEP]	USA	Q30	cheaper
+[CLS] is sydney far more advanced , tech - sa ##v ##vy , sophisticated and beautiful city than [MASK] [SEP]	Melbourne	Q3141	more_developed
+[CLS] is this why [MASK] is more liberal than america ? [SEP]	Europe	Q46	more_liberal
+[CLS] is living in [MASK] more difficult than living in europe ? [SEP]	Japan	Q17	other
+[CLS] in general , , which is a more humid city . . [MASK] or chicago ? [SEP]	NY	Q60	hotter
+[CLS] which city is better for acc ##omo ##dation during a 6 days travel ? [MASK] or sha ##r ##jah ? [SEP]	dubai	Q613	better
+[CLS] today brazil is stronger than [MASK] mil ##ita ##rily and economically ? [SEP]	Canada	Q16	more_powerful
+[CLS] [MASK] moving to colombia , more affordable with u . s . money ? [SEP]	American	Q30	cheaper
+[CLS] gay ##s and lesbian ##s , which society is more tolerant of us ? europe or [MASK] [SEP]	the U.S.	Q30	other
+[CLS] are laptop ##s / electronics cheaper in dubai than in [MASK] [SEP]	the US	Q30	cheaper
+[CLS] does russia have stronger military than [MASK] [SEP]	United States	Q30	more_powerful
+[CLS] why dubai is hotter than [MASK] [SEP]	singapore	Q334	hotter
+[CLS] [MASK] vs russia . which military is more powerful ? [SEP]	USA	Q30	more_powerful
+[CLS] which is safer for women , [MASK] or us ? [SEP]	India	Q668	safer
+[CLS] which is a bigger city bangalore or [MASK] [SEP]	hyderabad	Q1361	larger
+[CLS] why is [MASK] colder than istanbul ? [SEP]	New York City	Q60	hotter
+[CLS] is it much cheaper to buy a ds ##lr like a nik ##on d ##40 in [MASK] than in the philippines ? [SEP]	SIngapore	Q334	cheaper
+[CLS] [MASK] more beautiful city than london ? [SEP]	Paris	Q90	more_beautiful
+[CLS] why is the usa richer than [MASK] [SEP]	europe	Q46	richer
+[CLS] which country is richer germany or [MASK] [SEP]	UK	Q145	richer
+[CLS] which country is more famous : [MASK] or israel ? [SEP]	South Korea	Q884	more_popular
+[CLS] is mexico richer than [MASK] [SEP]	Argentina	Q414	richer
+[CLS] is [MASK] weaker than south korea ? [SEP]	North Korea	Q423	more_powerful
+[CLS] russia and [MASK] which is the more powerful military country ? [SEP]	China	Q148	more_powerful
+[CLS] more [MASK] states have gay marriage than countries in europe do - - why ? [SEP]	U.S.	Q30	other
+[CLS] generally speaking , is [MASK] flat ##ter than europe ? [SEP]	the U.S.	Q30	elevations
+[CLS] i ' m living in an asian country right . which is a better country to live in [MASK] or u . s ? [SEP]	London	Q84	more_livable
+[CLS] why is [MASK] warmer than pittsburgh ? [SEP]	Seattle	Q5083	hotter
+[CLS] living in na ##gpur city and living in [MASK] which is better ? [SEP]	Hyderabad	Q1361	more_livable
+[CLS] which city is more famous worldwide - nyc or [MASK] [SEP]	Rome	Q220	more_popular
+[CLS] why is it cheaper to go to [MASK] then it is to go to melbourne ? [SEP]	singapore	Q334	cheaper
+[CLS] there is more fun in los angeles or [MASK] [SEP]	new york	Q60	more_fun
+[CLS] where is it more fun and safer to go to , [MASK] or honduras ? please help me decide ##ee . . . ? [SEP]	Ecuador	Q736	more_fun
+[CLS] which country is more powerful : [MASK] or brazil ? [SEP]	Mexico	Q96	more_powerful
+[CLS] why is the atlantic coast colder than the [MASK] in the same latitude ? [SEP]	Pacific coast	Q12606	hotter
+[CLS] among [MASK] and canada which country has better job opportunities for it professional ? [SEP]	Australia	Q408	more_jobs
+[CLS] where is hotter , florida or [MASK] [SEP]	Tenerife	Q40846	hotter
+[CLS] are the beaches better in vietnam or [MASK] [SEP]	Philippines	Q928	better
+[CLS] which is more expensive to live san francisco or [MASK] [SEP]	Seattle	Q5083	cheaper
+[CLS] where would someone be happier living [MASK] or montana ? [SEP]	California	Q99	more_fun
+[CLS] which country is more technological ##ly advanced , [MASK] or the philippines ? [SEP]	Indonesia	Q252	better_technologically
+[CLS] which place is cheaper for a person to retire : [MASK] or the philip ##inn ##es ? [SEP]	Thailand	Q869	cheaper
+[CLS] what ' s better - [MASK] or manchester ' s gay scene ? [SEP]	London	Q84	better
+[CLS] whose economy is stronger , [MASK] or the united kingdom ? [SEP]	South Korea	Q884	more_powerful
+[CLS] [MASK] vs europe . . . which one has the greater % of people without values , ethics , and morals ? [SEP]	United States	Q30	other
+[CLS] which city is more beautiful london or [MASK] [SEP]	Sydney	Q3130	more_beautiful
+[CLS] is immigration greater from [MASK] to calgary than from calgary to toronto ? [SEP]	Calgary	Q36312	other
+[CLS] on the whole , which of these two home counties would you say is more po ##sh : surrey or [MASK] [SEP]	Buckinghamshire	Q23229	other
+[CLS] which country is more famous : [MASK] or brazil ? [SEP]	Spain	Q29	more_popular
+[CLS] which city is warmer during summer - - chicago or [MASK] [SEP]	New York City	Q60	hotter
+[CLS] why do [MASK] airports reduce takeoff / landing capacity in bad weather more than in europe ? [SEP]	U.S.	Q30	other
+[CLS] why does [MASK] have more homeless people than new york city ? [SEP]	Los Angeles	Q65	more_populated
+[CLS] are ga ##dgets cheaper in [MASK] than in the philippines ? [SEP]	Singapore	Q334	cheaper
+[CLS] which is a better place to live , worth ##ing or [MASK] [SEP]	Littlehampton	Q990112	better
+[CLS] euro 2012 : what about italy - [MASK] who is stronger ? in your opinion who will win and why ? [SEP]	England	Q21	more_powerful
+[CLS] which country has more snow a year ? [MASK] or russia ? [SEP]	Canada	Q16	rainier
+[CLS] who has a stronger military , [MASK] or israel ? [SEP]	Turkey	Q43	more_powerful
+[CLS] is [MASK] s beach cleaner than galveston ? [SEP]	Corpus Christi	Q49242	cleaner
+[CLS] which country is more famous : cambodia or [MASK] [SEP]	Austria	Q40	more_popular
+[CLS] is [MASK] more liberal or conservative than the usa ? [SEP]	Europe	Q46	more_liberal
+[CLS] which get ' s colder in the winter ? [MASK] or new york ? [SEP]	Detroit	Q2187605	hotter
+[CLS] why does [MASK] have so many more sw ##ine flu cases then the rest of europe ? [SEP]	the UK	Q145	other
+[CLS] which is city is larger and bigger [MASK] or bangalore . ? [SEP]	Hyderabad	Q1361	larger
+[CLS] which country is richer : [MASK] or australia ? [SEP]	England	Q21	richer
+[CLS] which has more manufacturing jobs ? arizona or [MASK] [SEP]	California	Q99	more_jobs
+[CLS] is india a much bigger country then [MASK] [SEP]	pakistan	Q843	larger
+[CLS] what ##s cheaper , su ##t ##dy ##ing for college in europe or [MASK] [SEP]	america	Q30	other
+[CLS] which is better for house ##boat stay ? all ##ep ##pe ##y or [MASK] [SEP]	Kumarakom	Q3521576	better
+[CLS] where is more fun los cab ##os or [MASK] [SEP]	Cancun	Q8969	more_fun
+[CLS] is san francisco more liberal than [MASK] [SEP]	Los Angeles	Q65	more_liberal
+[CLS] who are more technological ##ly advanced , japan or [MASK] [SEP]	China	Q148	better_technologically
+[CLS] why do women in europe wear more stockings than women in [MASK] [SEP]	the U.S.	Q30	other
+[CLS] why is frankfurt bigger then [MASK] [SEP]	Berlin	Q64	larger
+[CLS] why is [MASK] much more liberal than texas ? [SEP]	California	Q99	more_liberal
+[CLS] who has a stronger military today england or [MASK] [SEP]	Ireland	Q27	more_powerful
+[CLS] is [MASK] or australia safer ? [SEP]	England	Q21	safer
+[CLS] which country is richer - [MASK] or poland ? [SEP]	Czech Republic	Q213	richer
+[CLS] who is more powerful , england or [MASK] [SEP]	united states	Q30	more_powerful
+[CLS] which has a better economy florida or [MASK] [SEP]	virginia	Q1370	stronger_economically
+[CLS] which country has better laws [MASK] or europe ? [SEP]	USA	Q30	other
+[CLS] is the dallas fort worth area overall better then [MASK] [SEP]	Houston	Q16555	better
+[CLS] w ##his is closer to the north pole and the south pole iceland or [MASK] and explain . ? [SEP]	new zealand	Q664	closer_to_pole
+[CLS] why has there been a greater rise in extreme at ##hei ##sm in [MASK] than europe ? [SEP]	America	Q30	other
+[CLS] why does flags ##taff get more rain than [MASK] during monsoon season ? [SEP]	Flagstaff	Q79842	rainier
+[CLS] which country is more famous : [MASK] or brazil ? [SEP]	Norway	Q20	more_popular
+[CLS] which country is safer for tourists : israel or [MASK] [SEP]	Syria	Q858	safer
+[CLS] is [MASK] bigger than california ? [SEP]	vietnam	Q881	larger
+[CLS] where does political correct ##ness rule the ro ##ost more : in [MASK] or europe ? [SEP]	the USA	Q30	other
+[CLS] with similar size white populations , why are sa ##fr ##ica so mu ##c more competitive in cricket with australia than [MASK] [SEP]	NZ	Q664	stronger_economically
+[CLS] which country is poorer ; [MASK] nicaragua , or dr ? [SEP]	Cuba	Q241	richer
+[CLS] [MASK] or sacramento , which is more diverse ? [SEP]	San Francisco	Q62	more_culturaly_diverse
+[CLS] [MASK] or south korea ? which one is more advanced ? [SEP]	Japan	Q17	more_developed
+[CLS] why does [MASK] have better animal rights laws than america ? [SEP]	england	Q21	more_liberal
+[CLS] which city is better to move : manchester or [MASK] [SEP]	Birmingham	Q2256	better
+[CLS] which country is more famous : germany or [MASK] [SEP]	Italy	Q38	more_popular
+[CLS] manchester or [MASK] which city is better for living ? [SEP]	Leeds	Q39121	better
+[CLS] who has a stronger military , israel or [MASK] [SEP]	Iran	Q794	more_powerful
+[CLS] which place is better to visit - ko ##dai ##kan ##al or [MASK] [SEP]	Coorg	Q298416	better
+[CLS] which city is more romantic , paris or [MASK] [SEP]	Rome	Q220	more_beautiful
+[CLS] h ##tc touch in dubai is cheaper than in [MASK] [SEP]	india	Q668	cheaper
+[CLS] which countries are safer from a earthquake australia or [MASK] [SEP]	New Zealand	Q664	safer
+[CLS] what city is bigger [MASK] oklahoma or wichita , kansas ? [SEP]	oklahoma city	Q34863	larger
+[CLS] is it cheaper to study in [MASK] or new zealand ? [SEP]	Australia	Q408	cheaper
+[CLS] why is chicago so violent but in [MASK] major cities are more peaceful ? [SEP]	Canada	Q16	peaceful
+[CLS] whose economy is stronger , south korea or the [MASK] [SEP]	United Kingdom	Q145	more_powerful
+[CLS] which country is richer and is more popular ? [MASK] or japan ? [SEP]	Australia	Q408	richer
+[CLS] why are new yorker ##s more friendly than [MASK] [SEP]	Californians	Q99	more_friendly
+[CLS] how much money spent in mba from europe ( [MASK] ? which is better ? masters or mba ? [SEP]	Germany	Q183	other
+[CLS] why is california much more liberal than [MASK] [SEP]	Texas	Q1439	more_liberal
+[CLS] which city is older , [MASK] or beijing ? [SEP]	Shanghai	Q8686	older
+[CLS] hawaii or [MASK] which one is warmer ? [SEP]	Florida	Q812	hotter
+[CLS] is [MASK] or phoenix a better / more affordable place to live in ? [SEP]	Dallas	Q16557	other
+[CLS] where the people are more friendly ? in canada or in [MASK] [SEP]	Australia	Q408	more_friendly
+[CLS] is louis vu ##itt ##on cheaper in dubai than [MASK] [SEP]	London	Q84	cheaper
+[CLS] is [MASK] more developed or bangalore ? [SEP]	chennai	Q1352	more_developed
+[CLS] which is a more friendly city , [MASK] or glasgow ? [SEP]	Edinburgh	Q23436	more_friendly
+[CLS] why are techno dances more popular in europe then in [MASK] [SEP]	the U.S.A	Q30	more_popular
+[CLS] are car lighter adapt ##ers the same in [MASK] and europe ? [SEP]	the US	Q30	other
+[CLS] which is safer to travel alone in , thailand or [MASK] [SEP]	Malaysia	Q833	safer
+[CLS] why is australia a far richer country than [MASK] [SEP]	America	Q30	richer
+[CLS] what is older [MASK] or u . s . a ? [SEP]	germany	Q183	older
+[CLS] is [MASK] more conservative than the us southern states ? [SEP]	Alberta	Q1951	more_liberal
+[CLS] [MASK] vs usa : which country has less violence ? [SEP]	England	Q21	safer
+[CLS] is better [MASK] or manchester to live in ? [SEP]	London	Q84	better
+[CLS] are there more job opportunities or less in [MASK] compared to canada ? [SEP]	England	Q21	more_jobs
+[CLS] are classical and jazz genres more popular in europe than [MASK] [SEP]	the US	Q30	more_popular
+[CLS] which is more democratic ? [MASK] or modern australia ? [SEP]	Ancient Athens	Q844930	more_democratic
+[CLS] who has a stronger military ? turkey or [MASK] [SEP]	Poland	Q36	more_powerful
+[CLS] which do you think is more cool : moscow or [MASK] [SEP]	Saint Petersburg	Q656	more_fun
+[CLS] is india bigger or smaller than the [MASK] [SEP]	Brazil	Q155	larger
+[CLS] which country is more famous : [MASK] or israel ? [SEP]	Italy	Q38	more_popular
+[CLS] why is san francisco more expensive than [MASK] [SEP]	LA	Q65	cheaper
+[CLS] which city is more friendly for foreigners - new delhi or [MASK] [SEP]	Bangalore	Q1355	more_friendly
+[CLS] argentina has more people of [MASK] or italian descent ? [SEP]	Spanish	Q29	more_populated
+[CLS] is cost of living lower in [MASK] than in europe and why ? [SEP]	the USA	Q30	other
+[CLS] paris vs . [MASK] which city is more romantic ? [SEP]	Venice	Q641	more_beautiful
+[CLS] which city is warmer in the summer chicago or [MASK] [SEP]	new york	Q60	hotter
+[CLS] is [MASK] or england currently more powerful ? [SEP]	France	Q142	more_powerful
+[CLS] which is expensive / cheaper ? dubai or [MASK] [SEP]	Switzerland	Q39	cheaper
+[CLS] [MASK] or las vegas which city is more fun [SEP]	Miami	Q8652	more_fun
+[CLS] which are closer to the equator the no ##mad ##s of the [MASK] or coffee grow ##ers of colombia ? [SEP]	sagara	Q1648262	closer_to_equator
+[CLS] why is pizza so much more ta ##sty in europe than in [MASK] [SEP]	the U.S.	Q30	other
+[CLS] if your on the street of dubai and [MASK] which is more modern and beautiful ? [SEP]	new york	Q60	more_modern
+[CLS] who ##s better [MASK] or georgia rappers ? [SEP]	florida	Q812	other
+[CLS] which country is more competitive at sports australia or [MASK] ? [SEP]	France	Q142	stronger_economically
+[CLS] which is more expensive ? san francisco or [MASK] [SEP]	New York	Q60	cheaper
+[CLS] beijing , or [MASK] - which one is more poll ##uted ? [SEP]	Los Angeles	Q65	cleaner
+[CLS] which island is more beautiful to travel to : je ##ju island vs . [MASK] [SEP]	Okinawa Island	Q600614	more_beautiful
+[CLS] poll : which state is better : [MASK] or nevada ? [SEP]	California	Q99	better
+[CLS] wi ##ch city is more cool to live , [MASK] or new york ? [SEP]	London	Q84	more_fun
+[CLS] is the philip ##ines cheaper than [MASK] ? [SEP]	Thailand	Q869	cheaper
+[CLS] what is a better vacation destination ? [MASK] or miami florida ? [SEP]	Ft Lauderdale	Q165972	more_popular
+[CLS] is shopping cheaper in penang or [MASK] [SEP]	Kuala Lumpur	Q1865	cheaper
+[CLS] why is smoking so much more common in europe than in [MASK] [SEP]	America	Q30	other
+[CLS] which is better : detroit or [MASK] [SEP]	Chicago	Q1297	better
+[CLS] is [MASK] traffic worse then tulsa ' s ? [SEP]	Oklahoma city	Q34863	better
+[CLS] which country is more free [MASK] or australia ? [SEP]	the United States	Q30	more_democratic
+[CLS] which city is more expensive to live in : [MASK] or calgary ? [SEP]	Edmonton	Q2096	cheaper
+[CLS] is [MASK] or canberra more live ##able ? [SEP]	Hobart	Q40191	more_livable
+[CLS] does anyone know the most level route from phoenix , az to [MASK] or ? ( less mountains good ! ! ! ) ? [SEP]	Portland	Q6106	other
+[CLS] why is [MASK] so much more diverse than america ? [SEP]	Canada	Q16	more_culturaly_diverse
+[CLS] who has better seafood , [MASK] or california ? [SEP]	Florida	Q812	better_food
+[CLS] [MASK] or vietnam which is better ? [SEP]	Cambodia	Q424	better
+[CLS] isn ' t [MASK] much more beautiful than paris ? [SEP]	Rome	Q220	more_beautiful
+[CLS] is [MASK] really richer than japan ? [SEP]	taiwan	Q865	richer
+[CLS] which is farther east , indiana or [MASK] [SEP]	Tennessee	Q1509	farther_located
+[CLS] are cigarettes cheaper in ohio than in [MASK] any examples ? [SEP]	Michigan	Q1166	cheaper
+[CLS] which is nice ##r hertfordshire or [MASK] [SEP]	uxbridge	Q3552816	other
+[CLS] which country is safer to be in , germany or [MASK] [SEP]	Australia	Q408	safer
+[CLS] which land is greene ##r [MASK] or scotland ? [SEP]	Ireland	Q27	cleaner
+[CLS] who ' s more technological ##ly advanced ? france or [MASK] [SEP]	England	Q21	better_technologically
+[CLS] [MASK] vs spain . who has a stronger military ? [SEP]	Mexico	Q96	more_powerful
+[CLS] what city is better , [MASK] or manchester ? [SEP]	London	Q84	better
+[CLS] are nike / adi ##das / re ##eb ##ok / other top branded basketball shoes cheaper in vietnam than in [MASK] [SEP]	the philippines	Q928	cheaper
+[CLS] which city is better to move to milwaukee or [MASK] [SEP]	Chicago	Q1297	better
+[CLS] which country is older , [MASK] or israel ? [SEP]	Greece	Q41	older
+[CLS] which country is the true land of the free and has more freedom : [MASK] or sweden ? [SEP]	the United States	Q30	more_democratic
+[CLS] which is older : ireland or [MASK] [SEP]	England	Q21	older
+[CLS] if traveling in late july early august would it be better to go to [MASK] or punta can ##a ? [SEP]	Cancun	Q8969	better
+[CLS] living in nyc or [MASK] - what ##s better ? [SEP]	Philadelphia	Q1345	more_livable
+[CLS] are electronics cheaper than [MASK] in dubai ? [SEP]	India	Q668	cheaper
+[CLS] is [MASK] richer than argentina ? [SEP]	Mexico	Q96	richer
+[CLS] why [MASK] une ##mp ##ol ##yme ##nt rate are lower than europe ? [SEP]	US	Q30	other
+[CLS] which is colder greenland or [MASK] ? [SEP]	Iceland	Q189	hotter
+[CLS] which city is better : [MASK] or manchester ? [SEP]	Leeds	Q39121	better
+[CLS] which city is more liberal ? san fran ##sic ##ko or [MASK] [SEP]	Amsterdam	Q727	more_liberal
+[CLS] detroit or [MASK] which is better ? [SEP]	Grand Rapids	Q184587	better
+[CLS] why does it seem like europe has generally a better taste in music then [MASK] [SEP]	the U.S.	Q30	other
+[CLS] is [MASK] an older country than the u . s ? [SEP]	Canada	Q16	older
+[CLS] who has produced better boxers right now , all of europe or just the single [MASK] [SEP]	country of US	Q30	other
+[CLS] why is the west nile virus a bigger concern for [MASK] than europe ? [SEP]	north america	Q49	other
+[CLS] which capital is farther north - salt lake city , utah or [MASK] nevada ? [SEP]	carson city	Q40881	farther_located
+[CLS] what is hotter [MASK] california or lafayette indiana ? [SEP]	eureka	Q488702	hotter
+[CLS] buenos aires or [MASK] wi ##ch one is better to live ? wi ##ch one is more city city ? [SEP]	Los Angeles	Q65	better
+[CLS] why is there so much more gun violence in the usa than in [MASK] [SEP]	Canada	Q16	safer
+[CLS] why it costs less to make steel in [MASK] than in europe ? [SEP]	Asia	Q48	other
+[CLS] why [MASK] is richer than russia ? [SEP]	Germany	Q183	richer
+[CLS] which is more powerful russia or [MASK] ? [SEP]	usa	Q30	more_powerful
+[CLS] con ##s : why does europe ( which has much strict ##er gun laws ) have much lower ho ##mic ##ate rates than [MASK] [SEP]	the U.S.	Q30	other
+[CLS] which state is closer to the north pole [MASK] or ohio ? [SEP]	Wyoming	Q1214	closer_to_pole
+[CLS] which is hotter texas or [MASK] [SEP]	Arizona	Q816	hotter
+[CLS] are black women more respected in europe than they are in [MASK] [SEP]	America	Q30	other
+[CLS] why does [MASK] get more rain than phoenix during monsoon season ? [SEP]	Flagstaff	Q79842	rainier
+[CLS] which state has higher elevations , [MASK] or tennessee ? [SEP]	Florida	Q812	elevations
+[CLS] is it cheaper to live in [MASK] or melbourne ? [SEP]	Sydney	Q3130	cheaper
+[CLS] is jamaica more gay - friendly than [MASK] [SEP]	Russia	Q159	more_friendly
+[CLS] why is europe getting hotter than [MASK] countries that are closer to the equator ? [SEP]	Asia	Q48	other
+[CLS] [MASK] vs rio de jane ##rio ? what ##s better to spend time in . ? [SEP]	Sao Paulo	Q174	other
+[CLS] are cars on the [MASK] cheaper than the west coast ? [SEP]	east coast	Q4268	cheaper
+[CLS] why does texas have more people than [MASK] but has a lower unemployment ? [SEP]	New York	Q60	more_populated
+[CLS] which book would you like better ? a young boy who revenge ##s his father from [MASK] or from europe ? [SEP]	Africa	Q15	other
+[CLS] which country is more famous : brazil or [MASK] [SEP]	Jamaica	Q766	more_popular
+[CLS] detroit or [MASK] better to travel ? [SEP]	Indianapolis	Q6346	better
+[CLS] is southern california more dangerous than [MASK] [SEP]	northern California	Q1066807	safer
+[CLS] manchester or [MASK] which city is better for young student ? [SEP]	Leeds	Q39121	better
+[CLS] which country is richer ? mexico or [MASK] [SEP]	Peru	Q419	richer
+[CLS] which state has better weather , [MASK] or florida ? [SEP]	California	Q99	hotter
+[CLS] why are japan towns cleaner than [MASK] towns ? [SEP]	China	Q148	cleaner
+[CLS] is [MASK] hotter than florida ? [SEP]	Houston	Q16555	hotter
+[CLS] scientific ##ally , why is [MASK] hotter than other states at the same latitude , like texas ? [SEP]	Arizona	Q816	hotter
+[CLS] which state is farther east , indiana or [MASK] ? [SEP]	Tennessee	Q1509	farther_located
+[CLS] are you sure korean pop / drama is getting more popular in [MASK] and europe ? [SEP]	North America	Q49	other
+[CLS] is lahore bigger than [MASK] in area ? [SEP]	London	Q84	larger
+[CLS] is [MASK] more powerful than russia ? [SEP]	the U.S	Q30	more_powerful
+[CLS] which country is more famous in your opinion : brazil or [MASK] [SEP]	India	Q668	more_popular
+[CLS] are cannabis laws in [MASK] more liberal then in california or is california more liberal then canada ? [SEP]	california	Q99	more_liberal
+[CLS] which country is more powerful ' [MASK] or uk ' ? [SEP]	France	Q142	more_powerful
+[CLS] why are there more job opportunities in [MASK] than in mexico ? [SEP]	the USA	Q30	more_jobs
+[CLS] which has more opportunities of being ' ' discovered ' ' la or [MASK] [SEP]	London	Q84	more_jobs
+[CLS] why is there less gun violence in [MASK] than the u . s . ? [SEP]	Singapore	Q334	safer
+[CLS] which is colder kashmir or [MASK] [SEP]	himachal pradesh	Q1177	hotter
+[CLS] why is dubai more successful than [MASK] at living peacefully with many religions ? [SEP]	the US	Q30	more_successful
+[CLS] grass is greene ##r on the other side ? [MASK] to canada ? [SEP]	UK	Q145	cleaner
+[CLS] [MASK] penguins or detroit red wings which one is better ? [SEP]	Pittsburgh	Q1342	better
+[CLS] is newfoundland bigger than [MASK] [SEP]	Scotland	Q22	larger
+[CLS] is [MASK] mil ##ita ##rily more powerful than uk ? [SEP]	Argentina	Q414	more_powerful
+[CLS] is the digital cameras cheaper in dubai than [MASK] ? [SEP]	U.S.A	Q30	cheaper
+[CLS] which is a better place to go , [MASK] or lisbon ? [SEP]	Porto	Q36433	better
+[CLS] why is there so much less gun violence in europe than [MASK] [SEP]	the U.S.	Q30	safer
+[CLS] which is better [MASK] or ko ##dai ##kan ##al ? [SEP]	ooty	Q9888	better
+[CLS] where would be the nice ##r place to live beverly hills or [MASK] [SEP]	Coto De Caza	Q2182879	other
+[CLS] which place is more fun . . . [MASK] or goa ? [SEP]	Langkawi	Q273303	more_fun
+[CLS] does [MASK] rec ##ie ##ve less terrorist attacks than europe because it harder to get into because its isolated ? [SEP]	Australia	Q408	other
+[CLS] is living in [MASK] better than australia ? [SEP]	Japan	Q17	more_livable
+[CLS] why do restaurants rush you so much more in [MASK] as opposed to europe ? [SEP]	America	Q30	other
+[CLS] on average is [MASK] warmer than chicago ? [SEP]	New York City	Q60	hotter
+[CLS] which country is bigger ? belgium or [MASK] [SEP]	Ireland	Q27	larger
+[CLS] who is more poor [MASK] or pakistan ? [SEP]	India	Q668	richer
+[CLS] why is canada so much more diverse than [MASK] [SEP]	America	Q828	more_culturaly_diverse
+[CLS] where the people are more friendly ? in [MASK] or in australia ? [SEP]	Canada	Q16	more_friendly
+[CLS] which city has better opportunities to found a business [MASK] or calgary ? [SEP]	Vancouver	Q24639	more_jobs
+[CLS] do more people live in all of europe or just tu ##e [MASK] [SEP]	United States	Q30	more_populated
+[CLS] why is the population so much larger in [MASK] and india compared to the rest of the world ? [SEP]	China	Q148	larger
+[CLS] which is michigan ' s more liberal county : [MASK] or wash ##ten ##aw ? [SEP]	Wayne	Q195664	more_liberal
+[CLS] can ##cu ##n or [MASK] which is more beautiful ? [SEP]	Puerto Vallarta	Q853258	more_beautiful
+[CLS] is there more religious freedom in china than in [MASK] [SEP]	the US	Q30	more_democratic
+[CLS] why is [MASK] cooler than new york in the summer ? [SEP]	Eureka	Q488702	hotter
+[CLS] wi ##ch of these two cities is more popular ny or [MASK] ? [SEP]	NY	Q60	more_popular
+[CLS] why are there more people in prison in [MASK] than anywhere else in europe ? [SEP]	England	Q21	more_populated
+[CLS] atheist ##s : why is [MASK] so much more religious than japan ? [SEP]	south korea	Q884	more_religious
+[CLS] why is [MASK] is more populated than india ? [SEP]	China	Q148	more_populated
+[CLS] which country is less developed portugal or [MASK] [SEP]	Argentina	Q414	more_developed
+[CLS] is canada an older country than [MASK] [SEP]	the USA	Q30	older
+[CLS] why [MASK] have a better develop economy compared to the philippines ? [SEP]	japan	Q17	stronger_economically
+[CLS] do you feel the senior dating scene in georgia is better than in [MASK] [SEP]	michigan	Q1166	other
+[CLS] why does new york city has a larger population than [MASK] [SEP]	Indianapolis	Q6346	more_populated
+[CLS] which state is warmer [MASK] or florida and why ? [SEP]	Montana	Q1212	hotter
+[CLS] which un ##iv is better - manchester or [MASK] ? [SEP]	Leeds	Q39121	better
+[CLS] what ' s the difference between mt rain ##ier ( [MASK] and mt ma ##una lo ##a ( hawaii ) ? [SEP]	washington	Q1223	rainier
+[CLS] which country is richer ? japan or [MASK] [SEP]	Australia	Q408	richer
+[CLS] which country is older , canada or [MASK] [SEP]	USA	Q30	older
+[CLS] which continent produce more world class footballers , europe or [MASK] [SEP]	South America	Q18	other
+[CLS] which is better : buenos aires or [MASK] [SEP]	San Francisco	Q62	better
+[CLS] why are there generally more inter ##ac ##ial relationships in europe than [MASK] [SEP]	the U.S	Q30	other
+[CLS] which is the better 18 - 30 destination , mag ##al ##uf or ka ##vos ? [SEP]	Kavos	Q642506	more_popular
+[CLS] which countries are wealth ##ier among them ? [MASK] taiwan , south korea , japan , ? [SEP]	Singapore	Q334	richer
+[CLS] would it be better to ride a motor cycle across vietnam or [MASK] [SEP]	Malaysia	Q833	better
+[CLS] does australia have a better economy than [MASK] [SEP]	america	Q30	stronger_economically
+[CLS] is the [MASK] more beautiful than puerto rico ? [SEP]	Dominican Republic	Q786	more_beautiful
+[CLS] is it more humid in [MASK] than in florida ? [SEP]	puerto rico	Q1183	hotter
+[CLS] does [MASK] is more beautiful than washington dc ? [SEP]	Ottawa	Q1930	more_beautiful
+[CLS] which country is more modern , rich and powerful [MASK] or mexico ? [SEP]	Brazil	Q155	more_modern
+[CLS] where is more fun to travel : [MASK] or dominican republic ? [SEP]	Costa Rica	Q800	more_fun
+[CLS] which country has a better economy , south korea or [MASK] [SEP]	India	Q668	stronger_economically
+[CLS] compared to [MASK] why is canada so much more accepting of all types of inter ##rac ##ial couples ? [SEP]	the US	Q30	more_friendly
+[CLS] which canadian city is more liv ##able toronto or [MASK] [SEP]	Winnipeg	Q2135	more_livable
+[CLS] which has a higher elevation , [MASK] or australia ? [SEP]	Greenland	Q223	elevations
+[CLS] what economic factors make [MASK] less popular than europe ? [SEP]	Africa	Q15	other
+[CLS] which region is more liberal on marijuana : us or [MASK] [SEP]	Europe	Q46	more_liberal
+[CLS] [MASK] or u . s which is wealth ##ier country ? [SEP]	China	Q148	richer
+[CLS] is the hispanic population bigger in northern california or [MASK] [SEP]	southern california	Q844837	larger
+[CLS] is canada actually much older than [MASK] [SEP]	the USA	Q30	older
+[CLS] why is new york colder than [MASK] in winter time ? [SEP]	vancouver	Q24639	hotter
+[CLS] which city is colder ? ? toronto or [MASK] [SEP]	Chicago	Q1297	hotter
+[CLS] is it hotter in [MASK] or florida ? [SEP]	Japan	Q17	hotter
+[CLS] [MASK] vs washington d . c , which is hotter in the summer ? [SEP]	Shanghai	Q8686	hotter
+[CLS] which has a higher population - the [MASK] or new york city ? [SEP]	State of Alaska	Q797	more_populated
+[CLS] which is the better honeymoon destination dubai or [MASK] ? [SEP]	SINGAPORE	Q334	more_popular
+[CLS] is japan a more technological ##ly advanced country than [MASK] [SEP]	United States	Q30	better_technologically
+[CLS] which city is bigger , [MASK] or dallas ? [SEP]	Houston	Q16555	larger
+[CLS] why is [MASK] less populated than south east asia ? [SEP]	canada	Q16	more_populated
+[CLS] why is [MASK] warmer than toronto ? [SEP]	Windsor	Q182625	hotter
+[CLS] [MASK] or phoenix ! which do you think is a better place to live ? [SEP]	Las Vegas	Q23768	other
+[CLS] which city is older , shanghai or [MASK] [SEP]	Beijing	Q956	older
+[CLS] which country is more multicultural , [MASK] or spain ? [SEP]	Portugal	Q45	more_culturaly_diverse
+[CLS] is canada or [MASK] more accepting of inter ##rac ##ial marriages ? [SEP]	the UK	Q145	more_friendly
+[CLS] what city is more famous worldwide - nyc or [MASK] [SEP]	Berlin	Q64	more_popular
+[CLS] which is more fun to visit , san diego or [MASK] [SEP]	san francisco	Q62	more_fun
+[CLS] is vietnam cheaper than [MASK] at the moment ? [SEP]	Thailand	Q869	cheaper
+[CLS] what ' s more recommended , [MASK] or k ##ra ##bi ? [SEP]	Halong bay	Q190128	other
+[CLS] why is there so much less gun violence in [MASK] than the u . s . ? [SEP]	Europe	Q46	safer
+[CLS] are spiders bigger in [MASK] or india ? [SEP]	Romania	Q218	larger
+[CLS] why life in [MASK] a lot cheaper , cleaner , compare to philippines ? [SEP]	thailand	Q869	cheaper
+[CLS] which city has better weather ? atlanta or [MASK] [SEP]	Houston	Q16555	hotter
+[CLS] what country is more famous - cambodia or [MASK] [SEP]	Austria	Q40	more_popular
+[CLS] which of these 2 cities , [MASK] or phoenix , feels hotter and more uncomfortable on more days in summer ? [SEP]	Houston	Q16555	other
+[CLS] is dallas a bigger city then [MASK] [SEP]	Houston	Q16555	larger
+[CLS] which country is wealth ##ier ? [MASK] or bolivia ? [SEP]	Mexico	Q96	richer
+[CLS] which is a better place to have a vacation : [MASK] or vietnam ? [SEP]	Thailand	Q869	better
+[CLS] are the people of indonesia more free , less free , or just as free as [MASK] [SEP]	the United States	Q30	more_democratic
+[CLS] why [MASK] and europe is moving towards more socialist policies ? [SEP]	US	Q30	other
+[CLS] is sao paulo safer than [MASK] [SEP]	Rio de Janeiro	Q8678	safer
+[CLS] does [MASK] or ireland have better food ? [SEP]	England	Q21	better_food
+[CLS] which city is colder ? ? [MASK] or chicago ? [SEP]	Toronto	Q172	hotter
+[CLS] is it more fun in [MASK] or guangzhou ? [SEP]	Hong Kong	Q8646	more_fun
+[CLS] does it rain more in [MASK] than new york ? [SEP]	Seattle	Q5083	rainier
+[CLS] is dubai cheaper than [MASK] [SEP]	india	Q668	cheaper
+[CLS] how is [MASK] worse than vietnam ? [SEP]	Iraq	Q796	better
+[CLS] is [MASK] hotter than texas or they the same all year around ? [SEP]	Florida	Q812	hotter
+[CLS] why is it warmer throughout the year in texas than [MASK] [SEP]	alaska	Q797	hotter
+[CLS] which is better city to live in : manchester or [MASK] [SEP]	Edinburgh	Q23436	better
+[CLS] why is [MASK] colder than new york ? [SEP]	Salt Lake city	Q23337	hotter
+[CLS] which has a nice ##r downtown area , los angeles or [MASK] [SEP]	Chicago	Q1297	other
+[CLS] whose more powerful : israel or [MASK] [SEP]	the United States	Q30	more_powerful
+[CLS] is [MASK] indiana bigger than evans ##ville indiana ? [SEP]	terre haute	Q492478	larger
+[CLS] which city is more tourist - friendly ? [MASK] or rio de janeiro ? [SEP]	Sao Paolo	Q174	more_friendly
+[CLS] why are japan and [MASK] wealth ##ier and more developed than most other asian countries ? [SEP]	South Korea	Q884	richer
+[CLS] why malaysia is more developed than [MASK] [SEP]	Indonesia	Q252	more_developed
+[CLS] would all of europe combined be stronger than [MASK] in military and economic power ? [SEP]	the U.S.	Q30	other
+[CLS] how come prison sentences in [MASK] are longer and harsh ##er than in europe ? [SEP]	the U.S.	Q30	other
+[CLS] which city is more romantic ? krakow or [MASK] [SEP]	Prague	Q1085	more_beautiful
+[CLS] which city is more fun , los angeles or [MASK] [SEP]	Miami	Q8652	more_fun
+[CLS] is [MASK] cheaper than prague ? for stuff like taxis , eating out , night ##life , pubs etc ? thanks ? [SEP]	Budapest	Q1781	cheaper
+[CLS] what state is more liberal , [MASK] or massachusetts ? [SEP]	California	Q99	more_liberal
+[CLS] what is hotter eureka california or [MASK] indiana ? [SEP]	lafayette	Q638187	hotter
+[CLS] the traditional boundary between europe and [MASK] is formed by the . . . ? and one more ! ? [SEP]	Asia	Q48	other
+[CLS] is it hotter in atlanta than in [MASK] [SEP]	Los Angeles	Q65	hotter
+[CLS] which state is warmer montana or [MASK] and why ? [SEP]	Florida	Q812	hotter
+[CLS] where ' s nintendo wii cheaper : in dubai or in [MASK] [SEP]	London	Q84	cheaper
+[CLS] why is [MASK] having mass shooting more then any country in europe ? [SEP]	America	Q30	other
+[CLS] which country is more beautiful between new zealand and [MASK] [SEP]	Norway	Q20	more_beautiful
+[CLS] is it true that the church of scientology has more members in [MASK] than in europe ? [SEP]	America	Q30	other
+[CLS] is iceland closer to the north pole then [MASK] is to the south pole ? explain your aw ##nse ##r ? [SEP]	new zealand	Q664	closer_to_pole
+[CLS] is america a more powerful country than [MASK] [SEP]	Canada	Q16	more_powerful
+[CLS] why are the beaches south of [MASK] so much warmer than the beaches in maine ? [SEP]	Cape Cod	Q49152	hotter
+[CLS] which country is richer ? [MASK] or australia ? [SEP]	Japan	Q17	richer
+[CLS] is technology , such as computers and laptop notebook ##s , cheaper in ukraine , poland , russia than in [MASK] [SEP]	the USA	Q30	cheaper
+[CLS] does lebanon has a better economy compared to [MASK] [SEP]	Syria	Q858	stronger_economically
+[CLS] who ' s military is stronger south korea or [MASK] [SEP]	North Korea	Q423	more_powerful
+[CLS] which is a better place [MASK] or punta can ##a for honeymoon ? [SEP]	Costa Rica	Q800	better
+[CLS] which is texas ' more liberal city : austin or [MASK] [SEP]	Houston	Q16555	more_liberal
+[CLS] which state is farther north , north dakota or [MASK] [SEP]	Maine	Q6736533	farther_located
+[CLS] which college is better chi ##t ##kara university in raj ##pura campus or chi ##t ##kara university [MASK] campus ? [SEP]	baddi	Q462577	other
+[CLS] why is [MASK] hotter than florida ? [SEP]	nevada	Q1227	hotter
+[CLS] which country is more diverse / multicultural ? - [MASK] or australia ? [SEP]	America	Q30	more_culturaly_diverse
+[CLS] is it better manchester or [MASK] [SEP]	Birmingham	Q2256	better
+[CLS] is wildlife biology a realistic career ( & are there more conservation job opportunities in canada than [MASK] ? [SEP]	US	Q30	more_jobs
+[CLS] which country is safer to be in , [MASK] or australia ? [SEP]	Germany	Q183	safer
+[CLS] which city is colder , [MASK] or chicago ? [SEP]	Detroit	Q12439	hotter
+[CLS] why is new york city colder than [MASK] [SEP]	Istanbul	Q406	hotter
+[CLS] explain why the number of hours of daylight is less in [MASK] than in calgary on december 22 ? [SEP]	Edmonton	Q2096	other
+[CLS] why is new york city colder than [MASK] [SEP]	London	Q84	hotter
+[CLS] which state is bigger [MASK] or california ? [SEP]	new york	Q60	larger
+[CLS] why is [MASK] so much more right - wing than europe ? [SEP]	America	Q30	other
+[CLS] which european country is wealth ##ier : [MASK] or germany ? [SEP]	Italy	Q38	richer
+[CLS] is [MASK] a more powerful country than canada ? [SEP]	America	Q828	more_powerful
+[CLS] is men ##ife ##e , ca a safer place to live than [MASK] [SEP]	Menifee	Q3476276	safer
+[CLS] which city is better ? manchester or [MASK] [SEP]	Liverpool	Q24826	better
+[CLS] in terms of things to do , where is a better holiday destination ? samoa or [MASK] [SEP]	Tonga	Q678	more_popular
+[CLS] what ##s a better idea , move to europe or move to [MASK] [SEP]	southern california	Q844837	other
+[CLS] who is the poorer country africa / [MASK] [SEP]	India	Q668	richer
+[CLS] what is hotter florida or [MASK] arizona ? [SEP]	phoenix	Q16556	hotter
+[CLS] which city is a better place for a family to take a vacation , detroit of [MASK] [SEP]	Chicago	Q1297	better
+[CLS] is florida hotter than [MASK] or they the same all year around ? [SEP]	Texas	Q1439	hotter
+[CLS] which continent is more culturally diverse ? [MASK] or europe ? [SEP]	Africa	Q15	other
+[CLS] which city is cooler [MASK] or milan ? [SEP]	Rome	Q220	hotter
+[CLS] what ##s cheaper and more beautiful [MASK] or cyprus ? [SEP]	Greece	Q41	cheaper
+[CLS] is uk military stronger than [MASK] [SEP]	France	Q142	more_powerful
+[CLS] united states vs [MASK] who is more rich ? [SEP]	United Kingdom	Q145	richer
+[CLS] india to [MASK] which route is smaller ? east to west or west to east ? [SEP]	canada	Q16	larger
+[CLS] are there more people in [MASK] than in washington dc ? [SEP]	New York City	Q60	more_populated
+[CLS] does it rain more in england than in [MASK] [SEP]	Louisiana	Q1588	rainier
+[CLS] if europe is better than [MASK] then how come . . . ? [SEP]	America	Q30	other
+[CLS] which country is cleaner - [MASK] or pakistan ? [SEP]	India	Q668	cleaner
+[CLS] is [MASK] bigger in size than india ? [SEP]	kazakhstan	Q232	larger
+[CLS] in what way is [MASK] more free than other western nations like australia , canada , iceland ec ##t . ? [SEP]	America	Q30	more_democratic
+[CLS] is it safer to live in australia than [MASK] [SEP]	the USA	Q30	safer
+[CLS] are people in usa more friendly than people in [MASK] [SEP]	uk	Q145	more_friendly
+[CLS] which is cheaper to live in ? brisbane or [MASK] [SEP]	Gold Coast	Q140075	cheaper
+[CLS] [MASK] or florida which one is warmer ? [SEP]	Hawaii	Q782	hotter
+[CLS] which is older , the u . s . or [MASK] [SEP]	Mexico	Q96	older
+[CLS] compared to the us , why is [MASK] so much more accepting of all types of inter ##rac ##ial couples ? [SEP]	Canada	Q16	more_friendly
+[CLS] which would be a better option [MASK] or lan ##sd ##own ##e ? [SEP]	Kasauli	Q2287036	better
+[CLS] on average , does it rain more in [MASK] or cincinnati ? [SEP]	Cleveland	Q37320	rainier
+[CLS] why is [MASK] significantly colder than dubai ? [SEP]	Abu Dhabi	Q1519	hotter
+[CLS] is it hotter in pays ##on than [MASK] as a rule ? [SEP]	Payson	Q985250	hotter
+[CLS] why is liberalism stronger in [MASK] than in europe ? [SEP]	North America	Q49	more_powerful
+[CLS] hey is dallas bigger then [MASK] [SEP]	Philadelphia	Q1345	larger
+[CLS] which is colder during winter [MASK] or new york city ? [SEP]	seoul	Q8684	hotter
+[CLS] [MASK] or ko ##dai ##kan ##al , which would be better ? [SEP]	Ooty	Q9888	better
+[CLS] is san francisco less expensive to live in than [MASK] [SEP]	New York City	Q60	cheaper
+[CLS] what ' s the difference between mt rain ##ier ( washington ) and mt ma ##una lo ##a ( [MASK] ? [SEP]	hawaii	Q782	rainier
+[CLS] which country is safer ? ? ? germany or [MASK] [SEP]	Canada	Q16	safer
+[CLS] why are all ##er ##gies more common in [MASK] and europe ? [SEP]	North America	Q49	other
+[CLS] why is the sun stronger in australia and [MASK] [SEP]	New Zealand	Q664	more_powerful
+[CLS] is it hotter in [MASK] than prescott as a rule ? [SEP]	Payson	Q985250	hotter
+[CLS] if inflation is higher in [MASK] than in europe , which currency loses value ? [SEP]	the US	Q30	other
+[CLS] which place is bigger [MASK] or amar ##illo texas . . . . . ? ? ? ? ? [SEP]	Oklahoma city	Q34863	larger
+[CLS] which city has more scorpion ##s , [MASK] or phoenix ? [SEP]	Las Vegas	Q23768	other
+[CLS] do teachers make more money in georgia or [MASK] [SEP]	brooklyn	Q18419	other
+[CLS] which country has a higher overall elevation , spain or [MASK] [SEP]	France	Q142	elevations
+[CLS] is [MASK] warmer or nyc now ? [SEP]	Washington.D.C.	Q61	hotter
+[CLS] which one is more fun to live ? [MASK] or new york ? [SEP]	Los Angeles	Q65	more_fun
+[CLS] why do japanese make better electronics and cars than [MASK] and europe ? [SEP]	US	Q30	other
+[CLS] why does [MASK] have less migration than other european countries ? [SEP]	Italy	Q38	other
+[CLS] which do you like more , [MASK] or europe ? [SEP]	America	Q30	other
+[CLS] is [MASK] a much bigger country then pakistan ? [SEP]	India	Q668	larger
+[CLS] is denmark bigger than [MASK] [SEP]	Luxembourg	Q32	larger
+[CLS] why is eureka cooler than [MASK] in the summer ? [SEP]	New York	Q60	hotter
+[CLS] which country is more democratic , the united kingdom or [MASK] which country is better governed ? [SEP]	the Netherlands	Q55	more_democratic
+[CLS] which country has better missile technology - - india or [MASK] ? and why ? [SEP]	Pakistan	Q843	better_technologically
+[CLS] why is modern [MASK] less advanced than rome 2 , 000 years ago ? [SEP]	Africa	Q15	more_developed
+[CLS] which is cleaner pittsburgh or [MASK] [SEP]	Toronto	Q172	cleaner
+[CLS] which do you think is better [MASK] or detroit ? [SEP]	Minneapolis	Q36091	better
+[CLS] why is queens colder than [MASK] [SEP]	Manhattan	Q11299	hotter
+[CLS] which place is more fun to party , [MASK] or budapest ? [SEP]	Prague	Q1085	more_fun
+[CLS] shanghai vs [MASK] which is more developed ? [SEP]	Mumbai	Q1156	more_developed
+[CLS] on average are people in [MASK] more attracted to african features or european features ? [SEP]	Mexico	Q96	other
+[CLS] which country is more developed : malaysia or [MASK] [SEP]	Turkey	Q43	more_developed
+[CLS] poll which cab ##s are cooler , ny or [MASK] [SEP]	LONDON	Q84	hotter
+[CLS] [MASK] or uk . . . who ' s more free ? [SEP]	USA	Q30	more_democratic
+[CLS] mathematical ##ly , is [MASK] a more or less chaotic system than the ussr ? [SEP]	Russia	Q159	other
+[CLS] is an apartment cheaper in brisbane or the [MASK] pro ##s / con ##s of both places ? [SEP]	Gold Coast	Q140075	cheaper
+[CLS] who is richer , the usa or [MASK] [SEP]	the UK	Q145	richer
+[CLS] going camping what ##s better holm ##sley or brock ##en ##hurst in the [MASK] [SEP]	new forest	Q1972541	other
+[CLS] there seems more and more illegal activity of [MASK] in europe , doesn ' t there ? [SEP]	the US	Q30	other
+[CLS] which country is more democratic [MASK] or nigeria ? [SEP]	south africa	Q258	more_democratic
+[CLS] why has [MASK] have more defenders than attackers in europe ? [SEP]	mexico	Q96	other
+[CLS] is this why europe is more liberal than [MASK] [SEP]	America	Q30	more_liberal
+[CLS] sweden vs [MASK] which one is more successful country ? [SEP]	UK	Q145	more_successful
+[CLS] do people not think its unfair that europe is getting worse versions / models of the ps ##3 then [MASK] is ? [SEP]	america	Q30	other
+[CLS] what country is richer , mexico or [MASK] [SEP]	Ukraine	Q212	richer
+[CLS] why isn ' t [MASK] warmer than washington d . c in summer ? [SEP]	San Francisco	Q62	hotter
+[CLS] which country is safer , the usa or [MASK] [SEP]	England	Q21	safer
+[CLS] three reasons why [MASK] ecological footprint might be larger than india ' s . ? [SEP]	Canada's	Q16	larger
+[CLS] which city is better for students : manchester or [MASK] [SEP]	London	Q84	better
+[CLS] which country has more part time jobs [MASK] or australia . ? [SEP]	new zealand	Q664	more_jobs
+[CLS] what country is older israel or [MASK] [SEP]	china	Q148	older
+[CLS] why are houses on the west coast more expensive than similar houses in [MASK] [SEP]	Texas	Q1439	cheaper
+[CLS] does [MASK] have more land mass than europe ? [SEP]	china	Q148	other
+[CLS] which city is richer rancho mirage or [MASK] california ? [SEP]	Palm Springs	Q488004	richer
+[CLS] what country is more religious , [MASK] or canada ? [SEP]	Australia	Q408	more_religious
+[CLS] which state is farther north , maine or [MASK] [SEP]	Washington	Q1223	farther_located
+[CLS] [MASK] or los angeles - which one is more poll ##uted ? [SEP]	Beijing	Q956	cleaner
+[CLS] which capitol city is farther east , springfield , illinois or [MASK] alabama ? [SEP]	Montgomery	Q29364	farther_located
+[CLS] which country has the stronger and more effective military in combat : the uk or [MASK] [SEP]	France	Q142	more_powerful
+[CLS] why such a sm ##al country like [MASK] is richer than other countries like honduras , nicaragua , and guatemala [SEP]	El Salvador	Q792	richer
+[CLS] which one is bigger : [MASK] or dallas ? [SEP]	Atlanta	Q23556	larger
+[CLS] is the water pre ##tti ##er in jamaica or [MASK] [SEP]	Mexico	Q96	more_beautiful
+[CLS] where is a better place to live out of manchester and [MASK] [SEP]	Liverpool	Q24826	better
+[CLS] which state extends farther north , georgia or [MASK] [SEP]	Texas	Q1439	other
+[CLS] is [MASK] a richer than mexico ? [SEP]	brazil	Q155	richer
+[CLS] which is more fun to visit ? barcelona ? shanghai ? [MASK] [SEP]	Hong Kong	Q8646	more_fun
+[CLS] colombia vs . [MASK] : which is cheaper for living and for vacation ##ing ? [SEP]	Brazil	Q155	cheaper
+[CLS] how much colder is [MASK] than sydney during winter ? [SEP]	Wollongong	Q187861	hotter
+[CLS] is hong kong more or less capitalist than [MASK] [SEP]	the United States	Q30	political
+[CLS] [MASK] has more immigrants than europe . . . . . ? [SEP]	U.S.A	Q30	other
+[CLS] is america older than [MASK] [SEP]	italy	Q38	older
+[CLS] are there more black people in india or [MASK] [SEP]	brazil	Q155	more_populated
+[CLS] which city has better night life , [MASK] or calgary ? [SEP]	Edmonton	Q2096	other
+[CLS] what state is bigger [MASK] or california ? [SEP]	alaska	Q797	larger
+[CLS] which city gets less bugs and insects . . . phoenix , az or [MASK] fl ? [SEP]	Tampa	Q49255	other
+[CLS] which capital is farther north , salt lake city , utah or [MASK] ne ##veda ? [SEP]	Carson City	Q40881	farther_located
+[CLS] why is china developing faster than [MASK] [SEP]	India	Q668	develop_faster
+[CLS] what ' s richer ? saudi arabia or [MASK] [SEP]	Oman	Q842	richer
+[CLS] which city is more hot and humid in the summer , [MASK] or toronto ? [SEP]	Montreal	Q340	hotter
+[CLS] [MASK] or turkmenistan : which country is strict ##er ? [SEP]	Uzbekistan	Q265	other
+[CLS] why is divorce more common in [MASK] than any other country compared to countries in europe ? [SEP]	America	Q30	other
+[CLS] is [MASK] bigger than california ? [SEP]	Alaska	Q797	larger
+[CLS] which are the only mil ##ita ##ries on earth that are stronger than [MASK] one ? [SEP]	the US	Q30	more_powerful
+[CLS] is [MASK] wealth ##ier than japan ? [SEP]	Singapore	Q334	richer
+[CLS] why is the euro worth more than the dollar ? isn ' t [MASK] more of an economic center than europe ? [SEP]	America	Q30	other
+[CLS] which canadian city is more liv ##able [MASK] or winnipeg ? [SEP]	Toronto	Q172	more_livable
+[CLS] which city is closer to the equator london or [MASK] [SEP]	cape town	Q5465	closer_to_equator
+[CLS] which of these 2 home counties do you think is seen to be more po ##sh : surrey or [MASK] [SEP]	Berkshire	Q23220	other
+[CLS] which is stronger : russia or [MASK] [SEP]	china	Q148	more_powerful
+[CLS] which city is more friendly ? kyoto or [MASK] [SEP]	Montreal	Q340	more_friendly
+[CLS] is guangzhou a lot cheaper than [MASK] [SEP]	Beijing	Q956	cheaper
+[CLS] which is safer to live at : australia or [MASK] [SEP]	New Zealand	Q664	safer
+[CLS] are winters in [MASK] a lot colder than chicago ? [SEP]	Minneapolis	Q36091	hotter
+[CLS] why car prices are higher in [MASK] than in europe ? [SEP]	india	Q668	other
+[CLS] what country is more powerful ? [MASK] or canada ? [SEP]	Australia	Q408	more_powerful
+[CLS] which is more useful language in europe , french or [MASK] [SEP]	Spanish	Q29	other
+[CLS] is [MASK] older than ( mo ##ab ) jordan ? [SEP]	lebanon	Q822	older
+[CLS] which city is more friendly for foreigners - [MASK] or bangalore ? [SEP]	New Delhi	Q987	more_friendly
+[CLS] which is more fun , winter park , co or [MASK] co ? [SEP]	Breckenridge	Q904354	more_fun
+[CLS] which place has more cowboy type people ? [MASK] or florida ? [SEP]	Mexico	Q96	more_populated
+[CLS] which capital is farther north - salt lake city , utah , or [MASK] nevada ? [SEP]	Carson City	Q40881	farther_located
+[CLS] which is a better city to live in manchester or [MASK] [SEP]	Liverpool	Q24826	better
+[CLS] why is [MASK] so more diverse in culture than the america ' s ? [SEP]	the America's	Q828	more_culturaly_diverse
+[CLS] atheist ##s : why is south korea so much more religious than [MASK] [SEP]	japan	Q17	more_religious
+[CLS] is [MASK] ontario colder than toronto , ontario ? [SEP]	London	Q92561	hotter
+[CLS] why is europe more socially liberal than [MASK] [SEP]	the United States	Q30	more_liberal
+[CLS] which is more similar to europe - latin american countries or [MASK] [SEP]	North America	Q49	other
+[CLS] is [MASK] ( homogeneous society ) more safe and smoothly running than usa ( het ##ero ##gen ##eous society ) ? [SEP]	Japan	Q17	safer
+[CLS] which country is more modern , rich and powerful brazil or [MASK] [SEP]	Mexico	Q96	more_modern
+[CLS] does [MASK] offers a better life to its poor people than europe . . ? [SEP]	india	Q668	other
+[CLS] which city / town is larger dundee or [MASK] [SEP]	Aberdeen	Q36405	larger
+[CLS] which city is bigger amongst [MASK] and pune ? [SEP]	Ahmedabad	Q1070	larger
+[CLS] can anyone tell me which city is more diverse , [MASK] virginia or annapolis , md . ? [SEP]	Alexandria	Q88	other
+[CLS] why is rice cheaper in [MASK] than the philippines ? [SEP]	America	Q30	cheaper
+[CLS] [MASK] or beijing ? which is more gay friendly ? [SEP]	Alabama	Q173	more_liberal
+[CLS] which cost is more beautiful , [MASK] or la ##zio ? [SEP]	Lazio	Q1282	more_beautiful
+[CLS] which country is richer and is more popular ? australia or [MASK] [SEP]	Japan	Q17	richer
+[CLS] why does the moon seem to be much bigger in [MASK] than it does in europe ? [SEP]	North America	Q49	other
+[CLS] nintendo wii - - cheaper in [MASK] or philippines ? other important advise needed ? [SEP]	HK	Q8646	cheaper
+[CLS] which is more dangerous . america or [MASK] [SEP]	england	Q21	safer
+[CLS] is it more expensive to visit [MASK] or bermuda for a week ? [SEP]	Hawaii	Q782	cheaper
+[CLS] [MASK] vs detroit which ones better ? [SEP]	Chicago	Q1297	better
+[CLS] why is [MASK] all ##ot more accepting than the usa ? [SEP]	the UK	Q145	more_friendly
+[CLS] what nation is older [MASK] or the usa ? [SEP]	Mexico	Q96	older
+[CLS] on average is new york city warmer than [MASK] [SEP]	Chicago	Q1297	hotter
+[CLS] do people in europe have a better lifestyle than people in [MASK] [SEP]	the U.S.	Q30	other
+[CLS] which is more liberal ? [MASK] or austin texas ? [SEP]	Houston	Q16555	more_liberal
+[CLS] which city is cheaper , living costs wise , [MASK] or melbourne ? [SEP]	Perth	Q3183	cheaper
+[CLS] which one is more developed ? [MASK] or thailand ? [SEP]	Romania	Q218	more_developed
+[CLS] why do teenagers have more freedom and en ##ti ##tlement ##s in the uk than they do in [MASK] [SEP]	the USA	Q30	more_democratic
+[CLS] which city is warmer during summer - - [MASK] or new york city ? [SEP]	Chicago	Q1297	hotter
+[CLS] why does [MASK] get more snow than colorado springs ? [SEP]	Denver	Q16554	rainier
+[CLS] which country is older ? [MASK] or new zealand ? [SEP]	Australia	Q408	older
+[CLS] which is worse [MASK] or vietnam ? [SEP]	China	Q148	better
+[CLS] is it cheaper to buy high end boutique brands ( cloth ##s , bags and shoes ) in paris than [MASK] [SEP]	Singapore	Q334	cheaper
+[CLS] are jewelry prices in [MASK] generally cheaper than in the philippines ? [SEP]	Hong Kong	Q8646	cheaper
+[CLS] 10 points : is [MASK] or manhattan safer ? [SEP]	Los Angeles	Q65	safer
+[CLS] is melbourne more expensive than [MASK] also which is better to live in ? [SEP]	London	Q84	cheaper
+[CLS] is milan colder than [MASK] in winter / autumn ? does it snow more there ? [SEP]	London	Q84	hotter
+[CLS] which is better [MASK] or vietnam ? [SEP]	Indonesia	Q252	better
+[CLS] which country is hotter , dubai or [MASK] [SEP]	Singapore	Q334	hotter
+[CLS] is british society & culture more similar to that of continental europe or [MASK] explain your answer ? [SEP]	America	Q30	other
+[CLS] which country is better peru or [MASK] [SEP]	Chile	Q298	better
+[CLS] is [MASK] smaller than pakistan ? [SEP]	China	Q148	larger
+[CLS] which is a more interesting family vacation destination : calgary or [MASK] [SEP]	Edmonton	Q2096	other
+[CLS] why is winter in ny colder than in [MASK] [SEP]	London	Q84	hotter
+[CLS] which country is more powerful : italy or [MASK] [SEP]	Spain	Q29	more_powerful
+[CLS] is detroit better than [MASK] [SEP]	atlanta	Q23556	better
+[CLS] which is more technological ##ly advanced ? [MASK] or japan ? [SEP]	US	Q30	better_technologically
+[CLS] which neighborhood is safer jamaica queens , [MASK] brooklyn or flat ##bush brooklyn ? [SEP]	brownsville	Q991279	safer
+[CLS] where is more romantic ? can ##cu ##n or [MASK] [SEP]	Cozumel	Q20119933	more_beautiful
+[CLS] in general , , which is a more humid city . . ny or [MASK] [SEP]	Chicago	Q1297	hotter
+[CLS] is [MASK] colder than ny now ? [SEP]	San Francisco	Q62	hotter
+[CLS] which country is richer : england or [MASK] [SEP]	Australia	Q408	richer
+[CLS] is europe a more interesting destination to visit than [MASK] ? ? [SEP]	the USA	Q30	other
+[CLS] so , now [MASK] has more teams in the world cup than europe ? [SEP]	South America	Q18	other
+[CLS] is india more populated than [MASK] [SEP]	China	Q148	more_populated
+[CLS] which is is better chi ##t ##kara university ( raj ##pura ) or da ##vie ##t [MASK] for bt ##ech ? [SEP]	JALLANDHER	Q33377	other
+[CLS] u . s . and [MASK] 15 ( who is wealth ##ier ) ? [SEP]	EU	Q458	richer
+[CLS] where is better to live : lynn ##wood vs [MASK] [SEP]	Auburn, WA	Q661595	better
+[CLS] how many more people per square mile are there in india than in [MASK] [SEP]	the United States	Q30	more_populated
+[CLS] is living in japan better than [MASK] [SEP]	Australia	Q408	more_livable
+[CLS] why is [MASK] more successful than the us at living peacefully with many religions ? [SEP]	Dubai	Q612	more_successful
+[CLS] which is better [MASK] or detroit ? [SEP]	Chicago	Q1297	better
+[CLS] which nation is richer - [MASK] or japan ? [SEP]	Germany	Q183	richer
+[CLS] do western countries ( europe , [MASK] have more haunted houses than asian countries ? [SEP]	USA	Q30	other
+[CLS] which country is more powerful : [MASK] or spain ? [SEP]	Italy	Q38	more_powerful
+[CLS] should [MASK] become more like the soviet union ? [SEP]	America	Q30	other
+[CLS] is florida hotter than [MASK] [SEP]	California	Q99	hotter
+[CLS] which is bigger dallas or [MASK] [SEP]	Atlanta	Q23556	larger
+[CLS] is chicago more humid than [MASK] [SEP]	Memphis	Q16563	hotter
+[CLS] are autumn leaves more yellow in europe and more orange in [MASK] [SEP]	North America	Q49	other
+[CLS] which is a better tourist destination - - - thailand or [MASK] [SEP]	the philippines	Q928	more_popular
+[CLS] is the weather more to ##ler ##able in phoenix , arizona or [MASK] texas ? [SEP]	Austin	Q16559	other
+[CLS] which city is more diverse : [MASK] or vancouver ? [SEP]	Toronto	Q172	more_culturaly_diverse
+[CLS] why is acid rain a bigger problem in some parts of europe compared to [MASK] [SEP]	UK	Q145	other
+[CLS] which is more powerful , [MASK] or england ? [SEP]	France	Q142	more_powerful
+[CLS] is it cheaper to buy liquor / tobacco in ohio or [MASK] [SEP]	Kentucky	Q1603	cheaper
+[CLS] which place is safer [MASK] or thailand ? [SEP]	Taiwan	Q865	safer
+[CLS] are et ##ude house products cheaper in [MASK] or korea ? [SEP]	Malaysia	Q833	cheaper
+[CLS] more powerful all included ? [MASK] or uk ? [SEP]	USA	Q30	more_powerful
+[CLS] who is stronger ? israel or [MASK] [SEP]	iran	Q794	more_powerful
+[CLS] has [MASK] a better working economy than eastern germany ? [SEP]	Poland	Q36	stronger_economically
+[CLS] which city is farther east , [MASK] florida , or augusta , maine ? [SEP]	Miami	Q8652	farther_located
+[CLS] would it be more romantic to propose in [MASK] or bermuda ? [SEP]	Paris	Q90	more_beautiful
+[CLS] who has better technology japan or [MASK] [SEP]	U.S.A	Q30	better_technologically
+[CLS] trek ##king gear - cheaper in taiwan or [MASK] [SEP]	Japan	Q17	cheaper
+[CLS] between new york and [MASK] which city is more popular ? [SEP]	Los Angeles	Q65	more_popular
+[CLS] are clothes better / cheaper in [MASK] than in georgia ? [SEP]	new york	Q60	other
+[CLS] is [MASK] more dangerous than saudi arabia ? [SEP]	Iran	Q794	safer
+[CLS] is coral springs , florida significantly less expensive than living in [MASK] [SEP]	Los Angeles	Q65	cheaper
+[CLS] calgary or [MASK] which is older ? [SEP]	Edmonton	Q2096	older
+[CLS] which city is greater los angeles or [MASK] [SEP]	New york	Q60	other
+[CLS] how exactly is there more freedom in [MASK] than in europe ? [SEP]	the US	Q30	more_democratic
+[CLS] why is calgary ' s annual temperature less than [MASK] s ? [SEP]	Vancouver	Q24639	other
+[CLS] russia vs [MASK] who is stronger in war ? [SEP]	USA	Q30	more_powerful
+[CLS] which state is hotter fl or [MASK] [SEP]	New Mexico	Q1522	hotter
+[CLS] is detroit ' s economy better than [MASK] [SEP]	Greece's	Q41	better
+[CLS] which country is more liberal for gay ##s , france or [MASK] [SEP]	Germany	Q183	more_liberal
+[CLS] which currency is stronger , qatar or [MASK] [SEP]	bahrain	Q398	more_powerful
+[CLS] which is a safer place to go : [MASK] or nepal [SEP]	INDIA	Q668	safer
+[CLS] why does [MASK] get more snow than toronto ? [SEP]	Buffalo	Q40435	rainier
+[CLS] which of these rust ##belt cities is dirt ##ier and more industrial looking : flint , michigan or [MASK] ohio ? [SEP]	Youngstown	Q216820	cleaner
+[CLS] why is [MASK] safer then the usa despite having 1 bill ##on people ? [SEP]	China	Q148	safer
+[CLS] which is hotter and has the highest humidity , [MASK] or sydney ? [SEP]	Melbourne	Q3141	hotter
+[CLS] which country ' s politics and government is more corrupt , america ' s or the [MASK] [SEP]	UK's	Q145	more_currpt
+[CLS] in war which country is stronger and has a better economy . spain or [MASK] [SEP]	Germany	Q183	more_powerful
+[CLS] who are more friendly ? [MASK] british or australians ? [SEP]	Canadians	Q16	more_friendly
+[CLS] wi ##ch country is stronger by navy [MASK] or saudi arabia ? [SEP]	israel	Q801	more_powerful
+[CLS] who ' s stronger in military force russia or [MASK] [SEP]	India	Q668	more_powerful
+[CLS] bo ##ra bo ##ra or [MASK] which is more romantic for a proposal ? [SEP]	Bora Bora	Q183113	more_beautiful
+[CLS] which state is hotter texas or [MASK] [SEP]	Alabama	Q173	hotter
+[CLS] what city is better [MASK] ca or ontario , ca and why ? [SEP]	Fontana	Q491128	better
+[CLS] is boo ##ze cheaper in [MASK] or ohio ? [SEP]	Michigan	Q1166	cheaper
+[CLS] what country is more powerful ? australia or [MASK] [SEP]	Canada	Q16	more_powerful
+[CLS] which is colder , [MASK] or winnipeg ? [SEP]	Moscow	Q649	hotter
+[CLS] who are more technological ##ly advanced , [MASK] or china ? [SEP]	Japan	Q17	better_technologically
+[CLS] where has more job opportunity ( network technician ) ? [MASK] or calgary ? [SEP]	Toronto	Q172	other
+[CLS] which is cheaper to go to on skiing holiday austria or [MASK] [SEP]	Andorra	Q228	cheaper
+[CLS] which is farther , new york to [MASK] or ve ##nu ##zu ##ala to portugal ? [SEP]	New York	Q60	farther_located
+[CLS] who has stronger army ? [MASK] or russian ? [SEP]	USA	Q30	more_powerful
+[CLS] who do you feel more allied to ? europe or [MASK] [SEP]	America	Q30	other
+[CLS] why is it more dangerous to live in [MASK] than in the usa ? [SEP]	Canada	Q16	safer
+[CLS] which is more developed , shanghai or [MASK] [SEP]	hong kong	Q8646	more_developed
+[CLS] is europe more liberal or conservative than [MASK] [SEP]	the USA	Q30	more_liberal
+[CLS] why is [MASK] cleaner than america lo ##l ? [SEP]	Europe	Q46	cleaner
+[CLS] is [MASK] more powerful than syria ? [SEP]	China	Q148	more_powerful
+[CLS] between [MASK] and united state which country is richer ? [SEP]	canada	Q16	richer
+[CLS] looking to re ##lo ##cca ##te to ellen ##wood or [MASK] ga . which is better ? [SEP]	grayson	Q3260866	other
+[CLS] which city is pre ##tti ##er stockholm or [MASK] [SEP]	copenhagen	Q1748	more_beautiful
+[CLS] which land is greene ##r ireland or [MASK] [SEP]	Scotland	Q22	cleaner
+[CLS] is taiwan really richer than [MASK] [SEP]	japan	Q17	richer
+[CLS] are u ##gg boots cheaper in new zealand than in [MASK] [SEP]	the UK	Q145	cheaper
+[CLS] which nation is richer - germany or [MASK] [SEP]	Japan	Q17	richer
+[CLS] which is bigger in land size london ( uk ) or [MASK] ( india ) ? [SEP]	mumbai	Q1156	larger
+[CLS] which is more humid texas or georgia ? [SEP]	eorgia?	Q1428	hotter
+[CLS] is [MASK] or tamil nadu a better place to live or stay ? [SEP]	Kerala	Q1186	better
+[CLS] which country is stronger [MASK] or israel ? ( curious ) ? [SEP]	the US	Q30	more_powerful
+[CLS] who makes better music [MASK] or europe ? [SEP]	USA	Q30	other
+[CLS] what is older , [MASK] or rome ? [SEP]	Paris	Q90	older
+[CLS] what has better food , [MASK] or holland ? [SEP]	America	Q30	better_food
+[CLS] which is stronger , the [MASK] or the country australia ? [SEP]	State of California	Q99	more_powerful
+[CLS] among bo ##ri ##val ##i , dad ##ar , and ##her ##i , [MASK] v . . . , which is safer area of mumbai for girls ? [SEP]	thane	Q943099	other
+[CLS] is living in [MASK] better than hawaii ? [SEP]	California	Q99	more_livable
+[CLS] what country is more corrupt . . . . the united states or [MASK] [SEP]	China	Q148	more_currpt
+[CLS] which is better ke ##low ##na or [MASK] [SEP]	Kamloops	Q473209	better
+[CLS] which place is more dangerous brooklyn or [MASK] [SEP]	atlanta	Q23556	safer
+[CLS] how colder is [MASK] than washington dc ? [SEP]	Boston	Q100	hotter
+[CLS] where is it cheaper to live ? [MASK] or new zealand ? [SEP]	ireland	Q27	cheaper
+[CLS] which state is hotter hawaii or [MASK] [SEP]	Florida	Q812	hotter
+[CLS] which city is more tourist - friendly ? sao paolo or [MASK] [SEP]	Rio de Janeiro	Q8678	more_friendly
+[CLS] which country is more powerful : [MASK] or nicaragua ? [SEP]	Germany	Q183	more_powerful
+[CLS] iranian ##s , [MASK] or shi ##raz ? which is more beautiful ? [SEP]	Isfahan	Q42053	more_beautiful
+[CLS] which is at a higher elevation , colorado springs or [MASK] colorado ? [SEP]	Denver	Q16554	elevations
+[CLS] who has a stronger military , turkey or [MASK] [SEP]	Israel	Q801	more_powerful
+[CLS] would it be more romantic to propose in paris or [MASK] [SEP]	Bermuda	Q23635	more_beautiful
+[CLS] why is [MASK] naturally more right - wing than europe ? [SEP]	America	Q30	other
+[CLS] why is greenland colder than [MASK] though on same latitude ? [SEP]	Norway	Q20	hotter
+[CLS] which team is stronger : [MASK] or brazil ? [SEP]	Germany	Q183	more_powerful
+[CLS] are salaries higher in europe compared to [MASK] [SEP]	north America	Q49	other
+[CLS] why is europe more left - wing than [MASK] in general ? [SEP]	America	Q30	other
+[CLS] is air ##bn ##b cheaper in [MASK] than in san francisco ? [SEP]	Berkeley	Q484678	cheaper
+[CLS] which country is more famous : [MASK] or brazil ? [SEP]	Argentina	Q414	more_popular
+[CLS] what is nice ##r , [MASK] or europe to live in ? [SEP]	US	Q30	other
+[CLS] delhi or [MASK] which is cooler ? [SEP]	Mumbai	Q1156	hotter
+[CLS] which place is more attractive to immigrants ? usa or [MASK] [SEP]	EU	Q458	more_fun
+[CLS] which area is more dangerous ? [MASK] ( birmingham ) or hackney ( london ) ? [SEP]	Alum rock	Q4737336	safer
+[CLS] is japan more technological ##ly advanced than [MASK] [SEP]	The U.S.	Q30	better_technologically
+[CLS] who has better technology [MASK] or u . s . a ? [SEP]	Japan	Q17	better_technologically
+[CLS] - - - - - < [MASK] v australia > which country has a better economy and better job market ? ? [SEP]	Canada	Q16	stronger_economically
+[CLS] [MASK] or mumbai ? which is cooler ? [SEP]	Delhi	Q1353	hotter
+[CLS] which city is better - manchester or [MASK] [SEP]	Leeds	Q39121	better
+[CLS] how it pittsburgh ? is it colder then [MASK] [SEP]	Boston	Q100	hotter
+[CLS] which country is safer [MASK] or america ? [SEP]	russia	Q159	safer
+[CLS] which country safer [MASK] or usa ? [SEP]	canada	Q16	safer
+[CLS] which means of transportation is more developed in france than in [MASK] train plane car sub ##w ? [SEP]	the United States	Q30	more_developed
+[CLS] which is more fun , [MASK] or br ##eck ##en ##ridge , co ? [SEP]	Breckenridge	Q904354	more_fun
+[CLS] which city is more friendly ? [MASK] or montreal ? [SEP]	Kyoto	Q34600	more_friendly
+[CLS] which city is more fun to live in ? [MASK] or la ? [SEP]	NYC	Q60	more_fun
+[CLS] is california bigger than [MASK] [SEP]	Romania	Q218	larger
+[CLS] what ##s bigger phoenix arizona or [MASK] [SEP]	Los angeles	Q65	other
+[CLS] what ' s bigger , [MASK] or california ! ? [SEP]	New South Wales	Q3224	larger
+[CLS] is the weather is [MASK] more humid than texas during the summer ? [SEP]	Missouri	Q1581	hotter
+[CLS] which is cheaper for holiday the phillip ##ines or [MASK] [SEP]	Thailand	Q869	cheaper
+[CLS] are nike / adi ##das / re ##eb ##ok / other top branded basketball shoes cheaper in [MASK] than in the philippines ? [SEP]	vietnam	Q881	cheaper
+[CLS] can a company in [MASK] or russia build air force 1 cheaper than boeing and lockheed ? [SEP]	China	Q148	cheaper
+[CLS] poll : which country is more famous worldwide - [MASK] or germany ? [SEP]	Russia	Q159	more_popular
+[CLS] is mcdonald ' s more popular and successful in [MASK] or germany ? [SEP]	England	Q21	more_popular
+[CLS] why is new york colder than [MASK] [SEP]	Miami	Q8652	hotter
+[CLS] which is better [MASK] or na ##gpur , for a week long visit ? [SEP]	Pune	Q1538	better
+[CLS] is new york cooler than [MASK] [SEP]	London	Q84	hotter
+[CLS] is living in china better than [MASK] [SEP]	vietnam	Q881	more_livable
+[CLS] which is a more compelling place to visit , [MASK] or su ##kh ##oth ##ai ? [SEP]	Ayutthaya	Q203370	more_fun
+[CLS] which is the more conservative [MASK] or texas ? [SEP]	state: Alabama	Q173	more_liberal
+[CLS] generally speaking , is the u . s . flat ##ter than [MASK] [SEP]	Europe	Q46	elevations
+[CLS] which town is more family friendly : [MASK] irving , or arlington ? [SEP]	ft worth	Q16558	more_friendly
+[CLS] which football national team is more powerful ? iran , australia , [MASK] . . . korea ? [SEP]	japan	Q17	more_powerful
+[CLS] why does [MASK] have lower violent crime rates than europe ? [SEP]	America	Q30	other
+[CLS] what is david has ##sel ##hoff not more popular in [MASK] like he is in germany ? [SEP]	the States	Q30	more_popular
+[CLS] in [MASK] what ' s better x ##care ##t or x ##el - ha ? also what ' s better chi ##chen it ##za or tu ##lum ? [SEP]	cancun	Q8969	other
+[CLS] is poland older than [MASK] [SEP]	germany	Q183	older
+[CLS] why is cher ##ra ##pu ##n ##ji rain ##ier than [MASK] [SEP]	Kolkata	Q1348	rainier
+[CLS] which city is better ? irving , texas or [MASK] texas ? [SEP]	Garland	Q49274	better
+[CLS] what is a cheaper place to backpack for a month ? taiwan or [MASK] [SEP]	Thailand	Q869	cheaper
+[CLS] which one is cheaper and nice ##r philip ##ines and [MASK] . ? [SEP]	Thailand	Q869	cheaper
+[CLS] europe vs [MASK] which is more powerful ? [SEP]	japan	Q17	more_powerful
+[CLS] why is [MASK] so much richer than america ? how can we copy their success ? [SEP]	Luxembourg	Q32	richer
+[CLS] are divorce laws in [MASK] more liberal or less liberal than in the usa ? [SEP]	Canada	Q16	more_liberal
+[CLS] which country is richer argentina or [MASK] [SEP]	Brazil	Q155	richer
+[CLS] why is [MASK] hotter than milan ? [SEP]	Rome	Q220	hotter
+[CLS] where would be more fun to celebrate new years - new delhi or [MASK] and why ? [SEP]	Jaipur	Q66485	more_fun
+[CLS] which is a safer city area to live in ? [MASK] or seattle metro area ? [SEP]	Phoenix Metro Area	Q3290452	other
+[CLS] which state is more conservative - friendly : california or [MASK] [SEP]	New Jersey	Q1408	more_friendly
+[CLS] why is [MASK] colder than uk when its further south ? [SEP]	germany	Q183	hotter
+[CLS] which city is more fun ? panama city beach or [MASK] [SEP]	Miami	Q8652	more_fun
+[CLS] which one is more fun to live ? los angeles or [MASK] [SEP]	New York	Q60	more_fun
