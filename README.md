@@ -1,4 +1,4 @@
-Dataset name: XComp
+Dataset name: Comparative Question Completion
 
 
 What’s in the dataset?
