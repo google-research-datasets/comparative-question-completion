@@ -1,3 +1,4 @@
+Question	Masked text span	Wikidata id	Conjectured property
 [CLS] did you notice in the past 2 years iv ##e been trying to say [MASK] is better than kobe . . . . ? [SEP]	Lebron	Q36159	better
 [CLS] which team is better : [MASK] less ca ##vs or dwight howard - less magic ? [SEP]	Lebron	Q36159	better
 [CLS] buy or sell : kobe is better than [MASK] overall , but le ##bron is better than kobe defensive ##ly ? [SEP]	LeBron	Q36159	better
