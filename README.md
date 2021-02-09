@@ -33,6 +33,6 @@ Example: 'Q18123008' (The Wikidata entity page is located at https://www.wikidat
 4. The conjectured property along which the comparison is made. This property was identified heuristically, based on the sentence’s text.
 Example: 'dangerous'
 
-Google makes its annotations available pursuant to CC-BY 4.0.
+Google makes its annotations available pursuant to CC-BY 4.0 license.
 
 
